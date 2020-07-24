@@ -1,0 +1,95 @@
+I"N<p>[<a href="/publication_type/">sort by type</a>]	[<a href="/publication/">sort by date</a>]</p>
+
+<h1 id="conference-publications">Conference Publications</h1>
+
+<div class="row">
+	<div class="small-4 column">
+		
+			<a href="">
+				<img src="../images/images_for_pub/shuyang_sun_fishnet.png" style="width: 100%" />
+			</a>
+		
+	</div>
+	<div class="small-8 column">
+		<p>
+			<b>FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction</b>
+			<br />
+			Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang
+			<br /> 
+			NeurIPS 2018
+			<br />
+			<a href=""> [PDF]</a>
+			
+			
+			
+			<a href="https://github.com/kevin-ssy/FishNet"> [Code]</a>
+			
+			
+			<a href="#"> [Blog Post]</a>
+			
+		</p>
+	</div>
+		
+</div>
+
+<hr />
+
+<h1 id="journal-publications">Journal Publications</h1>
+
+<div class="row">
+	<div class="small-4 column">
+		
+			<a href="">
+				<img src="../images/images_for_pub/object_det_survey.png" style="width: 100%" />
+			</a>
+		
+	</div>
+	<div class="small-8 column">
+		<p>
+			<b>Deep learning for generic object detection: A survey</b>
+			<br />
+			Liu, Li, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikinen
+			<br /> 
+			International Journal of Computer Vision (IJCV), accepted, Sept. 2019
+			<br />
+			<a href=""> [PDF]</a>
+			
+			
+			
+			
+		</p>
+	</div>
+		
+</div>
+
+<hr />
+
+<div class="row">
+	<div class="small-4 column">
+		
+			<a href="">
+				<img src="../images/images_for_pub/guo_lu_kalman.png" style="width: 100%" />
+			</a>
+		
+	</div>
+	<div class="small-8 column">
+		<p>
+			<b>Deep Non-local Kalman Network for Video Compression Artifact Reduction</b>
+			<br />
+			Guo Lu, Xiaoyun Zhang, Wanli Ouyang, Dong Xu, Li Chen, and Zhiyong Gao
+			<br /> 
+			Trans. Image Process. (TIP), accepted Sept., 2019.
+			<br />
+			<a href=""> [PDF]</a>
+			
+			
+			
+			
+		</p>
+	</div>
+		
+</div>
+
+<hr />
+
+:ET
