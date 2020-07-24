@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 show_meta: false
 title: "People"
 subheadline: ""
@@ -15,7 +15,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3>Group Leader</h3>
+		<h3 class="section-title">Group Leader</h3>
 		<br/>
 	</div>
 	
@@ -36,7 +36,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Senior Researcher</h3>
+		<h3 class="medium-12 section-title" >Senior Researcher</h3>
 		<br/>
 	</div>
 	
@@ -69,7 +69,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Research Fellows</h3>
+		<h3 class="medium-12 section-title">Research Fellows</h3>
 		<br/>
 	</div>
 
@@ -85,7 +85,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Graduate Students</h3>
+		<h3 class="medium-12 section-title">Graduate Students</h3>
 		<br/>
 	</div>
 
@@ -108,13 +108,43 @@ permalink: "/people/"
 
 		{% include member.html name="Bradley Gram-Hansen" homepage="http://www.robots.ox.ac.uk/~bradley/" %}
 	</div>
+
+	<div class="row">
+		{% include member.html name="Viveka Kulharia" homepage="http://vivkul.github.io/" %}
+
+		{% include member.html name="Arnab Ghosh" homepage="http://arnabgho.github.io/" %}
+
+		{% include member.html name="Arnab Ghosh" homepage="http://amartya18x.github.io/" %}
+
+		{% include member.html name="Amartya Sanyal" homepage="http://amartya18x.github.io/" %}
+	</div>
+
+	<div class="row">
+		{% include member.html name="Thomas Joy" %}
+
+		{% include member.html name="Harkirat Singh Behl" homepage="https://harkiratbehl.github.io/" %}
+
+		{% include member.html name="Feihu Zhang" homepage="http://www.feihuzhang.com/" %}
+
+		{% include member.html name="Yuge (Jimmy) Shi" homepage="http://yugeten.github.io" %}
+	</div>
+
+	<div class="row">
+		{% include member.html name="Shuyang Sun" homepage="http://shuyangsun.xyz/" %}
+
+		{% include member.html name="Francesco Pinto" %}
+
+		{% include member.html name="Botos Csaba" homepage="https://www.linkedin.com/in/botos-csaba/" %}
+
+		{% include member.html name="Jishnu Mukhoti" homepage="https://omegafragger.github.io/" %}
+	</div>
 </div>
 
 ---
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Alumni</h3>
+		<h3 class="medium-12 section-title">Alumni</h3>
 		<br/>
 	</div>
 
