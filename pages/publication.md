@@ -1,6 +1,6 @@
 ---
 
-layout: page-fullwidth
+layout: page
 
 show\_meta: false
 
@@ -18,7 +18,10 @@ permalink: "/publication/"
 
 ---
 
-[[2020][1]]	[[2019][2]] [[2018][3]]
+[[2020][1]] [[2019][2]] [[2018][3]] [[2017][4]] [[2016][5]] [[2015][6]] [[2014][7]] [[2013][8]] [[2012][9]]
+[[2011][10]] [[2010][11]] [[2009][12]] [[2008][13]] [[2007][14]] [[2006][15]] [[2005][16]] [[2004][17]] [[2003][18]]
+
+<div class="">
 
 <h3 class="section-title" id="2020">Publications 2020</h3>
 
@@ -52,7 +55,24 @@ permalink: "/publication/"
     bib="http://www.robots.ox.ac.uk/~tvg/bibtex.php?bibtex_name=Jetley*_2018&bibtex_author=Saumya%20Jetley*%20and%20Nicholas%20A.%20Lord*%20and%20Philip%20H.S.%20Torr&bibtex_title=With%20Friends%20Like%20These,%20Who%20Needs%20Adversaries?&bibtex_journal=Neural%20Information%20Processing%20Systems%20(NeurIPS),%202018&bibtex_year=2018"
 %}
 
+</div>
+
 
 [1]:	/publication/#2020
 [2]:	/publication/#2019
 [3]:    /publication/#2018
+[4]:    /publication/#2017
+[5]:    /publication/#2016
+[6]:    /publication/#2015
+[7]:    /publication/#2014
+[8]:    /publication/#2013
+[9]:    /publication/#2012
+[10]:    /publication/#2011
+[11]:    /publication/#2010
+[12]:    /publication/#2009
+[13]:    /publication/#2008
+[14]:    /publication/#2007
+[15]:    /publication/#2006
+[16]:    /publication/#2005
+[17]:    /publication/#2004
+[18]:    /publication/#2003

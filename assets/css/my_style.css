@@ -27,6 +27,13 @@
     padding-top: 10px;
 }
 
+.pub-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
 .section-title {
     padding-bottom: 20px;
     color: #002147;
@@ -259,4 +266,22 @@ ul.timeline > li:before {
 
 .news-summary {
 
+}
+
+.logo {
+    flex: 20%;
+}
+
+.nav-tabs {
+    flex: 80%;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.logo-img {
+    float: right;
+    height: 3.125rem;
+    padding-left: 5px;
 }
