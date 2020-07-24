@@ -267,3 +267,5 @@ asciidoctor:
     coderay-css: style
     icons: font
 
+
+theme: jekyll-theme-cayman
