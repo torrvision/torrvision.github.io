@@ -285,3 +285,9 @@ ul.timeline > li:before {
     height: 3.125rem;
     padding-left: 5px;
 }
+
+/* Publication */
+
+.member-row {
+    padding-bottom: 60px;
+}
