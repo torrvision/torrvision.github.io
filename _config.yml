@@ -268,4 +268,4 @@ asciidoctor:
     icons: font
 
 
-theme: jekyll-theme-cayman
+theme: 
