@@ -20,7 +20,7 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html name="Philip H.S. Torr" title="Professor" homepage="http://www.robots.ox.ac.uk/~phst/" %}
+		{% include member.html name="Philip H.S. Torr" title="Professor" photo="/images/people/Phil.jpg" homepage="http://www.robots.ox.ac.uk/~phst/" %}
 
 		{% include member.html name="Joanna Zapisek" photo="/images/people/JoannaZ.jpg" title="Project Manager" %}
 
@@ -144,7 +144,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12 section-title">Alumni</h3>
+		<h3 class="medium-12 section-title">Visiting Student</h3>
 		<br/>
 	</div>
 
