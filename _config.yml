@@ -268,4 +268,23 @@ asciidoctor:
     icons: font
 
 
+
+# Collections: Members, Publications & News
+collections:
+  publications:
+    output: true
+
+  postdocs:
+    output: true
+    sort_by: "name"
+
+  dphils:
+    output: true
+    sort_by: "name"
+
+  news:
+    output: true
+
+collections_dir: tvg_db
+
 theme: 

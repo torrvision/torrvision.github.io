@@ -286,8 +286,18 @@ ul.timeline > li:before {
     padding-left: 5px;
 }
 
-/* Publication */
+/* People */
 
 .member-row {
     padding-bottom: 60px;
+}
+
+.member {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+a.member {
+    color: #002147;
 }
