@@ -1,5 +1,5 @@
 ---
 name: "Dr. Song Bai"
-photo: "/images/people/BaiSong.png"
-homepage: "http://songbai.site/"
+photo: "/images/people/SongBai.png"
+website: "http://songbai.site/"
 ---

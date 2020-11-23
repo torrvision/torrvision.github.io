@@ -296,6 +296,7 @@ ul.timeline > li:before {
     text-align: center;
     font-size: 18px;
     padding-bottom: 20px;
+    height: 280px;
 }
 
 a.member {

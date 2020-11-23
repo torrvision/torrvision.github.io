@@ -1,6 +1,9 @@
 ---
-name: "Nantas Nardelli"
-homepage: "http://www.robots.ox.ac.uk/~nantas"
-email: "mailto:nantas@robots.ox.ac.uk"
-year: 2017
+name: Nantas Nardelli
+title: Mr.
+email: nantas@robots.ox.ac.uk
+website: http://www.robots.ox.ac.uk/~nantas
+note: NULL
+category: Graduate Students
+photo: 
 ---

@@ -1,7 +1,9 @@
 ---
-name: "Qizhu Li"
-photo: "/images/people/QizhuLi.jpg"
-homepage: "http://www.robots.ox.ac.uk/~liqizhu/"
-email: "mailto:qizhu.li@eng.ox.ac.uk"
-year: 2017
+name: Qizhu Li
+title: Mr.
+email: qizhu.li@eng.ox.ac.uk
+website: http://www.robots.ox.ac.uk/~liqizhu/
+note: NULL
+category: Graduate Students
+photo: /images/people/QizhuLi.jpg
 ---

@@ -17,7 +17,10 @@ homepage: true
     <div class="light-section mt-6 mb-6">
       <h3 class="section-title">Breaking News</h3>
       <ul class="timeline col-md-6 off-md-6">
-        {% include news_item.html  date="24 July" year="2020"
+        {% for n in site.news %}
+          {% include news_item.html news_date=n.news_date title=n.title year=n.year news_content=n.news_content %}
+        {% endfor %}
+        <!-- {% include news_item.html  date="24 July" year="2020"
                                    title="Ellis Fellow"
                                    content="Professor Torr has been elected to be an Ellis Fellow "%}
         
@@ -30,7 +33,7 @@ homepage: true
                                    content="Professor Torr named distinguished fellow by the British Machine Vision Association"%}
         {% include news_item.html  date="24 July" year="2020"
                                    title="This List Could Be Super Long"
-                                   content="............................................"%}
+                                   content="............................................"%} -->
       </ul>
   </div>
 </div>

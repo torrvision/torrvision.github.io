@@ -273,12 +273,25 @@ asciidoctor:
 collections:
   publications:
     output: true
+    sort_by: "year"
 
   postdocs:
     output: true
     sort_by: "name"
 
   dphils:
+    output: true
+    sort_by: "name"
+
+  alumni:
+    output: true
+    sort_by: "name"
+
+  close_members:
+    output: true
+    sort_by: "name"
+
+  former_members:
     output: true
     sort_by: "name"
 
