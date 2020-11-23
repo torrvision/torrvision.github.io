@@ -31,6 +31,9 @@
 			{% if include.blog_post %}
 			<a href="{{ include.blog_post }}"> [Blog Post]</a>
 			{% endif %}
+			{% if include.grant == 'MURI' %}
+			| {{ include.grant }}
+			{% endif %}
 		</p>
 	</div>
 		

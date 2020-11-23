@@ -32,6 +32,7 @@ permalink: "/publication/"
             author_list=pub.author_list
             pub_in=pub.pub_in
             bib=pub.bib
+            grant=pub.grant
         %}    
 
 
