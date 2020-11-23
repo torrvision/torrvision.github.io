@@ -275,6 +275,9 @@ collections:
     output: true
     sort_by: "year"
 
+  senior_researchers:
+    output: true
+
   postdocs:
     output: true
     sort_by: "name"

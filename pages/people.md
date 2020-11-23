@@ -25,9 +25,10 @@ permalink: "/people/"
 
 <h3 class="medium-12 section-title" >Senior Researcher</h3>
 <br/>
-	
 
-{% include member.html name="Dr. Puneet Kumar Dokania" website="http://puneetkdokania.github.io/" %}
+{% for d in site.senior_researchers %}
+	{% include member.html name=d.name photo=d.photo website=d.website email=d.email year=d.year%}
+{% endfor %}
 
 
 <hr/>

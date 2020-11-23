@@ -5,5 +5,5 @@ email: puneetkdokania@gmail.com
 website: http://puneetkdokania.github.io/
 note: NULL
 category: Senior Researcher
-photo: 
+photo: "/images/people/puneet.png"
 ---
