@@ -6,4 +6,5 @@ website: yugeten.github.io
 note: NULL
 category: Graduate Students
 photo: "/images/people/YugeShi.jpg"
+year: 2018
 ---

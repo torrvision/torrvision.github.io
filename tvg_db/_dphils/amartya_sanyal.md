@@ -6,4 +6,5 @@ website: http://amartya18x.github.io
 note: NULL
 category: Graduate Students
 photo: /images/people/AmartyaSanyal.jpg
+year: 2017
 ---

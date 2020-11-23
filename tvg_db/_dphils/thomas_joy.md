@@ -6,4 +6,5 @@ website: NULL
 note: NULL
 category: Graduate Students
 photo: "/images/people/ThomasJoy.png"
+year: 2018
 ---

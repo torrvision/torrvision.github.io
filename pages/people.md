@@ -15,7 +15,7 @@ permalink: "/people/"
 
 <h3 class="section-title">Group Leader</h3>
 <br/>
-{% include member.html name="Philip H.S. Torr" title="Professor" photo="/images/people/Phil.jpg" website="http://www.robots.ox.ac.uk/~phst/" %}
+{% include member.html name="Philip H.S. Torr" title="Professor" photo="/images/people/Phil.jpg" website="http://www.robots.ox.ac.uk/~phst/" email="mailto:philip.torr@eng.ox.ac.uk"%}
 
 {% include member.html name="Joanna Zapisek" photo="/images/people/JoannaZapisek.jpg" title="Project Manager" %}
 
@@ -38,7 +38,7 @@ permalink: "/people/"
 
 {% assign postdocs = site.postdocs | sort: "name" | reverse %}
 {% for pd in postdocs %}
-	{% include member.html name=pd.name photo=pd.photo website=pd.website %}
+	{% include member.html name=pd.name photo=pd.photo website=pd.website email=pd.email %}
 {% endfor %}
 
 
