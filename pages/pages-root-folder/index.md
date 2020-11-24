@@ -19,20 +19,6 @@ homepage: true
         {% for n in site.news %}
           {% include news_item.html news_date=n.news_date title=n.title year=n.year news_content=n.news_content %}
         {% endfor %}
-        <!-- {% include news_item.html  date="24 July" year="2020"
-                                   title="Ellis Fellow"
-                                   content="Professor Torr has been elected to be an Ellis Fellow "%}
-        
-        {% include news_item.html  date="24 July" year="2020"
-                                   title="FREng"
-                                   content="Professor Torr elected to be Fellow of the Royal Academy Engineering"%}
-
-        {% include news_item.html  date="24 July" year="2020"
-                                   title="BMVA"
-                                   content="Professor Torr named distinguished fellow by the British Machine Vision Association"%}
-        {% include news_item.html  date="24 July" year="2020"
-                                   title="This List Could Be Super Long"
-                                   content="............................................"%} -->
       </ul>
   </div>
 </div>
