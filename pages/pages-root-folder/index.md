@@ -12,7 +12,6 @@ homepage: true
 
 ---
 
-
 <div class="row" style= "margin-top: 30px; max-height: 540px; margin-left: 1%">
     <div class="light-section mt-6 mb-6">
       <h3 class="section-title">Breaking News</h3>
