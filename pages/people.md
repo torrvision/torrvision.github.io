@@ -60,7 +60,7 @@ permalink: "/people/"
 <br/>
 
 {% for a in site.alumni %}
-	{% include collaborator.html name=a.name title=a.title website=a.website note=a.note %}
+	{% include collaborator.html name=a.name title=a.title email=a.email website=a.website note=a.note %}
 {% endfor %}
 <br/>
 <hr/>
@@ -69,7 +69,7 @@ permalink: "/people/"
 <br/>
 
 {% for c in site.close_members %}
-	{% include collaborator.html name=c.name title=c.title website=c.website note=c.note%}
+	{% include collaborator.html name=c.name title=c.title email=c.email website=c.website note=c.note%}
 {% endfor %}
 <br/>
 <hr/>
@@ -79,7 +79,7 @@ permalink: "/people/"
 <br/>
 
 {% for f in site.former_members %}
-	{% include collaborator.html name=f.name title=f.title website=f.website note=f.note%}
+	{% include collaborator.html name=f.name title=f.title email=f.email website=f.website note=f.note%}
 {% endfor %}
 <br/>
 <hr/>

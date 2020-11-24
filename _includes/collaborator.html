@@ -6,11 +6,15 @@
 			{{ include.title }} {{ include.name }}
 		{% endif %}
 
+		{% if include.email %}
+			[<a href="{{ include.email }}" style="color: #2F72A8;">email</a>]
+		{% endif %}
+
 		{% if include.affil %}
-			({{include.affil}})
+			({{ include.affil }})
 		{% endif %}
 		{% if include.note %}
-			({{include.note}})
+			({{ include.note }})
 		{% endif %}
 	</div>
 </div>
