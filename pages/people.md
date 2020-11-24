@@ -23,7 +23,7 @@ permalink: "/people/"
 
 <hr/>
 
-<h3 class="medium-12 section-title" >Senior Researcher</h3>
+<h3 class="medium-12 section-title" >Senior Researchers</h3>
 <br/>
 
 {% for d in site.senior_researchers %}
