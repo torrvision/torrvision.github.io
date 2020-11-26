@@ -278,6 +278,9 @@ collections:
   senior_researchers:
     output: true
 
+  senior_visiting_researchers:
+    output: true
+
   postdocs:
     output: true
     sort_by: "name"
