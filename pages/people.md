@@ -48,7 +48,9 @@ permalink: "/people/"
 <h3 class="medium-12 section-title">Graduate Students</h3>
 <br/>
 
-{% for d in site.dphils | sort: "year" | reverse %}
+
+{% assign dphils = site.dphils | sort: "year" | reverse %}
+{% for d in dphils %}
 	{% include member.html name=d.name photo=d.photo website=d.website email=d.email year=d.year%}
 {% endfor %}
 
