@@ -49,7 +49,7 @@ permalink: "/people/"
 <br/>
 
 
-{% assign dphils = site.dphils | sort: "year" | reverse %}
+{% assign dphils = site.dphils | sort: "year" %}
 {% for d in dphils %}
 	{% include member.html name=d.name photo=d.photo website=d.website email=d.email year=d.year%}
 {% endfor %}
