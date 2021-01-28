@@ -345,14 +345,14 @@ a.member {
 
         .banner.full {
             padding: 0;
-            min-height: 100vh;
-            height: 100vh !important;
+            min-height: 50vh;
+            height: 66vh !important;
         }
 
         .banner.half {
             padding: 0;
-            min-height: 80vh;
-            height: 80vh !important;
+            min-height: 50vh;
+            height: 65vh !important;
         }
 
         .banner:after {
@@ -539,8 +539,8 @@ a.member {
             
             .banner.full {
                 padding: 0;
-                min-height: 80vh;
-                height: 80vh !important;
+                min-height: 50vh;
+                height: 66vh !important;
             }
 
         }
@@ -553,8 +553,8 @@ a.member {
 
             .banner.full {
                 padding: 0;
-                min-height: 80vh;
-                height: 80vh !important;
+                min-height: 50vh;
+                height: 66vh !important;
             }
 
             .banner > article {
