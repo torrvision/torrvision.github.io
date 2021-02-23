@@ -4,8 +4,6 @@ year: 2020
 pdf_url: "https://arxiv.org/pdf/2010.12136.pdf"
 category: "vision"
 author_list: "Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz"
-grant: "the Royal Academy of Engineering under the Research Chair 
-and Senior Research Fellowships scheme, 
-EPSRC/MURI grant EP/N019474/1 and FiveAI"
+grant: "the Royal Academy of Engineering under the Research Chair"
 pub_in: "Neural Information Processing Systems 2020"
 ---
