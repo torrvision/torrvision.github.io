@@ -1,4 +1,3 @@
-  
 ---
 title: "Calibrating Deep Neural Networks using Focal Loss"
 year: 2020
