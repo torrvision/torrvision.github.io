@@ -1,3 +1,4 @@
+---
 title: "Simulation-Based Inference for Global Health Decisions"
 year: 2020
 pdf_url: "https://arxiv.org/pdf/2005.07062.pdf"
@@ -5,3 +6,4 @@ category: "vision"
 author_list: "Christian Schroeder de Witt, Bradley Gram-Hansen, Nantas Nardelli, Andrew Gambardella, Rob Zinkov, Puneet Dokania, N. Siddharth, Ana Belen Espinosa-Gonzalez, Ara Darzi, Philip Torr, Atılım Günes Baydin"
 grant: "MURI"
 pub_in: "ICML Workshop on Machine Learning for Global Health, Thirty-Seventh International Conference on Machine Learning (ICML 2020)"
+---
