@@ -1,3 +1,4 @@
+---
 title: "Amortized Rejection Sampling in Universal Probabilistic Programming"
 year: 2020
 pdf_url: "https://arxiv.org/pdf/1910.09056.pdf"
@@ -5,3 +6,4 @@ category: "vision"
 author_list: "Saeid Naderiparizi, Adam Scibior, Andreas Munk, Mehrdad Ghadiri, Atılım Gunes Baydin, Bradley Gram-Hansen, Christian Schroeder de Witt, Robert Zinkov, Philip H.S. Torr, Tom Rainforth, Yee Whye Teh, Frank Wood"
 grant: "MURI"
 pub_in: "International Conference on Probabilistic Programming (PROBPROG 2020)"
+---
