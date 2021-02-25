@@ -1,6 +1,6 @@
 ---
 name: Luca Bertinetto
-title: Mr.
+title: Dr.
 email: luca.bertinetto@gmail.com
 website: http://www.robots.ox.ac.uk/~luca/
 note: Examined by Jiri Matas
