@@ -9,6 +9,10 @@ header:
 permalink: "/prizes/"
 ---
 
+A.G. Baydin, L. Shao, W. Bhimji, L. Heinrich, L.F. Meadows, J. Liu, A. Munk, S. Naderiparizi, B. Gram-Hansen, G. Louppe, M. Ma, X. Zhao, P.H.S. Torr, V. Lee, K. Cranmer, Prabhat, F. Wood. 2019. [Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale](https://dl.acm.org/doi/10.1145/3295500.3356180), International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), 2019. **Best Paper Finalist**
+
+R. de Bem, A. Arnab, S. Golodetz, M. Sapienza, P.H.S. Torr, [Deep Fully-Connected Part-Based Models for Human Pose Estimation](http://www.robots.ox.ac.uk/~tvg/publications/2018/debem18.pdf), Asian Conference on Machine Learning, 2018. **Best paper runner-up.**
+
 R. de Bem, A. Arnab, S. Golodetz, M. Sapienza, P.H.S. Torr, [Deep Fully-Connected Part-Based Models for Human Pose Estimation](http://www.robots.ox.ac.uk/~tvg/publications/2018/debem18.pdf), Asian Conference on Machine Learning, 2018. **Best paper runner-up.**
 
 S. Zheng, S. Jayasumana, B. Romera-Paredes, P.H.S. Torr, [Live demo for semantic image segmentation with CRF-RNN](http://crfasrnn.torr.vision/), International Conference on Computer Vision, 2015. **Best demo award.**
