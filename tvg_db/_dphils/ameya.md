@@ -5,6 +5,6 @@ email: ameya.prabhu@mailfence.com
 website: https://drimpossible.github.io/
 note: NULL
 category: Graduate Students
-photo:
+photo: /images/people/AmeyaPrabhu.jpg
 year: 2020
 ---
