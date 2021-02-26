@@ -13,8 +13,6 @@ A.G. Baydin, L. Shao, W. Bhimji, L. Heinrich, L.F. Meadows, J. Liu, A. Munk, S. 
 
 R. de Bem, A. Arnab, S. Golodetz, M. Sapienza, P.H.S. Torr, [Deep Fully-Connected Part-Based Models for Human Pose Estimation](http://www.robots.ox.ac.uk/~tvg/publications/2018/debem18.pdf), Asian Conference on Machine Learning, 2018. **Best paper runner-up.**
 
-R. de Bem, A. Arnab, S. Golodetz, M. Sapienza, P.H.S. Torr, [Deep Fully-Connected Part-Based Models for Human Pose Estimation](http://www.robots.ox.ac.uk/~tvg/publications/2018/debem18.pdf), Asian Conference on Machine Learning, 2018. **Best paper runner-up.**
-
 S. Zheng, S. Jayasumana, B. Romera-Paredes, P.H.S. Torr, [Live demo for semantic image segmentation with CRF-RNN](http://crfasrnn.torr.vision/), International Conference on Computer Vision, 2015. **Best demo award.**
 
 L. Ladicky, C. Russell, P. Kohli, P.H.S. Torr, [Graph Cut based Inference with Co-occurrence Statistics](http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2010/ECCV2010/ip_map.pdf), Proceedings of the Eleventh European Conference on Computer Vision, 2010. Oral and **Best Paper Award at Conference.**
