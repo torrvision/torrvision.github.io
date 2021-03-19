@@ -1,6 +1,6 @@
 ---
 name: Oscar Rahnama
-title: Mr.
+title: Dr.
 email: oscar.rahnama@eng.ox.ac.uk
 website: NULL
 note: Examined by Professor R. Bowden
