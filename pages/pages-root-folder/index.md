@@ -16,7 +16,8 @@ homepage: true
     <div class="light-section mt-6 mb-6">
       <h3 class="section-title">Breaking News</h3>
       <ul class="timeline col-md-6 off-md-6">
-        {% for n in site.news %}
+        {% assign news = site.news | sort: "timestamp" | reverse %}
+        {% for n in news %}
           {% include news_item.html news_date=n.news_date title=n.title year=n.year news_content=n.news_content %}
         {% endfor %}
       </ul>
