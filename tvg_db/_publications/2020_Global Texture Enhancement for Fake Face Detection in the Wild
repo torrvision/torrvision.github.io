@@ -3,7 +3,7 @@
 	year: 2020
 	pdf_url: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf"
 	category: "vision"
-	author_list: " Zhengzhe Liu, Xiaojuan Qi, Philip H. S. Torr"
+	author_list: "Zhengzhe Liu, Xiaojuan Qi, Philip H. S. Torr"
 	grant: "MURI"
 	pub_in: "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2020)"
 	---
