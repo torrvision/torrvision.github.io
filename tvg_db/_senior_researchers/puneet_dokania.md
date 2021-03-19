@@ -1,5 +1,5 @@
 ---
-name: Puneet Kumar Dokania
+name: Dr. Puneet Kumar Dokania
 title: Dr.
 email: puneetkdokania@gmail.com
 website: http://puneetkdokania.github.io/
