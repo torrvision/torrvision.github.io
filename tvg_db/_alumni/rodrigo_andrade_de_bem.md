@@ -1,6 +1,6 @@
 ---
 name: Rodrigo de Bem
-title: Mr.
+title: Dr.
 email: rodrigo@robots.ox.ac.uk
 website: http://www.robots.ox.ac.uk/~rodrigo/
 note: Examined by Dr. Adrian Hilton
