@@ -5,5 +5,5 @@ pdf_url: "https://openreview.net/pdf?id=193sEnKY1ij"
 category: "vision"
 author_list: "Shyamgopal Karthik, Ameya Prabhu, Puneet K. Dokania, Vineet Gandhi"
 grant: "MURI"
-pub_in: " ICLR 2021"
+pub_in: "International Conference on Learning Representations (ICLR), 2021"
 ---
