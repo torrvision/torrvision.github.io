@@ -1,7 +1,7 @@
 ---
 name: A. Tuan Nguyen
 title: Mr.
-email: tuan.nguyen@cs.ox.ac.uk
+email: "mailto:tuan.nguyen@cs.ox.ac.uk"
 website: http://www.atuannguyen.com
 note: NULL
 category: Graduate Students
