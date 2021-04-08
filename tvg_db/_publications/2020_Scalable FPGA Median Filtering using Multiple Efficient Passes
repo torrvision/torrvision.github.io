@@ -3,7 +3,7 @@ title: "Scalable FPGA Median Filtering using Multiple Efficient Passes"
 year: 2020
 pdf_url: "https://dl.acm.org/doi/10.1145/3373087.3375388"
 category: "vision"
-author_list: "Oscar  Rahnama, Tommaso  Cavallari, Philip H S Torr profile imagePhilip H. S. Torr, Stuart  Golodetz"
+author_list: "Oscar  Rahnama, Tommaso  Cavallari, Philip H. S. Torr, Stuart  Golodetz"
 grant: "MURI"
 pub_in: "FPGA '20: Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays"
 ---
