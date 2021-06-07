@@ -87,7 +87,7 @@ permalink: "/people/"
 <hr/>
 	
 	
-<h3 class="medium-12 section-title">Academic Ancestors</h3>(<a href="https://www.robots.ox.ac.uk/~tvg/images/academic_ancestors.png">Full family tree</a>)
+<h3 class="medium-12 section-title">Academic Ancestors(<a href="https://www.robots.ox.ac.uk/~tvg/images/academic_ancestors.png">Full family tree</a>)</h3>
 <br/>
 	{% include collaborator.html name="Theodore Metochites" website="http://en.wikipedia.org/wiki/Theodore_Metochites" note="1315" %}
 	{% include collaborator.html name="Marcilio Ficino" website="http://en.wikipedia.org/wiki/Marsilio_Ficino" note="1462" %}
