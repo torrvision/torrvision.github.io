@@ -1,6 +1,6 @@
 ---
 name: "Dr. Kejie Li"
-photo: 
+photo: /images/people/KejieLi.jpg"
 email: "mailto: kejie.li@eng.ox.ac.uk"
-website:
+website: https://likojack.github.io/kejieli
 ---
