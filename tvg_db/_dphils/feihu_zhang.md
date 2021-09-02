@@ -5,6 +5,6 @@ email: feihu.zhang@exeter.ox.ac.uk
 website: http://www.feihuzhang.com
 note: NULL
 category: Graduate Students
-photo: 
+photo: /images/people/Feihu Zhang.png
 year: 2018
 ---
