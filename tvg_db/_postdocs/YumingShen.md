@@ -1,6 +1,6 @@
 ---
 name: "Dr. Yuming Shen"
-photo: 
+photo: "/images/people/YumingShen.jpg"
 email: "mailto:yuming.shen@eng.ox.ac.uk"
-website: 
+website: "https://ymcidence.github.io/"
 ---
