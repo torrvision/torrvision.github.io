@@ -5,5 +5,5 @@ pdf_url: "https://openaccess.thecvf.com/content/CVPR2021/html/Zheng_Rethinking_S
 category: "vision"
 author_list: "Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip HS Torr, Li Zhang"
 grant: ""
-pub_in: "IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021"
+pub_in: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021"
 ---
