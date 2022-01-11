@@ -13,7 +13,9 @@ permalink: "/recruitment/"
 
 Grade 7: £33,309 - £35,326 per annum
 
-We are seeking two Postdoctoral Research Assistants in Machine Learning to join Professor Torr’s research group at the Department of Engineering Science (central Oxford). The group is an internationally leading research group that has numerous scientific awards and has close links with some of the top industrial research labs, more information can be found here http://www.robots.ox.ac.uk/~tvg/. The posts are fixed-term for 2 year in the first instance with funding provided by the EPSRC.
+To apply please go to the [official site](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=155286).
+
+We are seeking two Postdoctoral Research Assistants in Machine Learning to join Professor Torr’s research group at the Department of Engineering Science (central Oxford). The group is an internationally leading research group that has numerous scientific awards and has close links with some of the top industrial research labs, more information can be found [here](https://torrvision.com/) . The posts are fixed-term for 2 year in the first instance with funding provided by the EPSRC.
  
 You will be responsible for the development and implementation of novel computer vision and learning algorithms for reliable, robust, and efficient deep neural networks. 
  
