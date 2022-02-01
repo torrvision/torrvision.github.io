@@ -24,6 +24,8 @@ You should hold a PhD or DPhil (or be near completion of) in Computer Vision or 
 Informal enquiries may be addressed to philip.torr@eng.ox.ac.uk.
  
 The University offers a comprehensive range of childcare services and has very generous maternity, adoption, paternity, shared parental leave schemes in operation. Requests for flexible working are always taken into consideration. We offer an enhanced entitlement to 38 days’ annual leave per year (pro-rata for part-time staff), inclusive of bank holidays and fixed closure days. Additional long service leave is available after 5 years’ service. An additional scheme enables staff to request to purchase up to ten additional days’ annual leave in each holiday year. Other staff benefits can be found here https://hr.admin.ox.ac.uk/staff-benefits 
+
+University of Oxford is committed to equality, diversity and inclusivity. We welcome applications from everyone, regardless of the categories they put themselves in. We are keen to offer opportunities, where possible, to people from groups who are currently underrepresented in science, technology, engineering and mathematics (STEM) in the UK, such as women and individuals from black or Asian backgrounds.
  
 Only applications received before midday on the **16th February 2022** can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application. 
  
