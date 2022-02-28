@@ -41,6 +41,6 @@ Members of the group have won major awards in all the main conferences in the fi
   <br>
   <h3 class="section-title"> Join the Lab </h3> 
 
-  We are currently looking to hire talented post docs, please check the <a href="https://torrvision.com/recruitment/"> recruitment page </a> for more details .
+  We are currently looking to hire a <strong>Departmental Lecturer</strong>, please check the <a href="https://torrvision.com/recruitment/"> recruitment page </a> for more details .
 
 </div>
