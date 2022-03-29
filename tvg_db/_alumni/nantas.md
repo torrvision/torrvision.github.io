@@ -1,6 +1,6 @@
 ---
 name: Nantas Nardelli
-title: Mr.
+title: Dr.
 email: nantas@robots.ox.ac.uk
 website: http://www.robots.ox.ac.uk/~nantas
 note: Examined by Professor Katja Hofmann
