@@ -1,6 +1,6 @@
 ---
 name: Harkirat Singh Behl
-title: Mr.
+title: Dr.
 email: harkirat@robots.ox.ac.uk
 website: https://harkiratbehl.github.io/
 note: Examined by Professor Ramin Zabih
