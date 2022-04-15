@@ -1,9 +1,10 @@
 ---
 name: Sam Hare
 title: Dr.
-email: removethisifyouarehuman-sam.hare@brookes.ac.uk
+email: http://www.samhare.net/
 website: http://cms.brookes.ac.uk/research/visiongroup/people.php
-note: Examiner Professor Roberto Cipolla, University of Cambridge; Left to found Obvious Engineering
+note: Founded Obvious Engineering, Examined by Prof. Roberto Cipolla, Cambridge
 category: Graduated PhD Students
 photo: 
+year: 2012
 ---

@@ -61,8 +61,9 @@ permalink: "/people/"
 <h3 class="medium-12 section-title">Graduated PhD Students</h3>
 <br/>
 
-{% for a in site.alumni %}
-	{% include collaborator.html name=a.name title=a.title email=a.email website=a.website note=a.note %}
+{% assign alumnis = site.alumni | sort: "year" %}
+{% for a in alumnis %}
+	{% include collaborator.html name=a.name title=a.title email=a.email website=a.website note=a.note year=a.year %}
 {% endfor %}
 <br/>
 <hr/>

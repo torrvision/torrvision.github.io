@@ -6,4 +6,5 @@ website: http://paulsturgess.wordpress.com/
 note: Examined by Prof. Derek Hoiem
 category: Graduated PhD Students
 photo: 
+year: 2012
 ---

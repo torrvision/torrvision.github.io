@@ -2,8 +2,9 @@
 name: Karteek Alahari
 title: Dr.
 email: 
-website: http://cms.brookes.ac.uk/staff/Karteek/
-note: Departed to Ecole Normale Superieure, examiner Professor Roberto Cipolla, University of Cambridge
+website: https://lear.inrialpes.fr/people/alahari/
+note: Departed to Ecole Normale Superieure, Examined by Prof. Roberto Cipolla, Cambridge
 category: Graduated PhD Students
 photo: 
+year: 2010
 ---

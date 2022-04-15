@@ -2,8 +2,9 @@
 name: Sunando Sengupta
 title: Dr.
 email: removethisifyouarehuman-ssengupta@brookes.ac.uk
-website: http://sots.brookes.ac.uk/~09118884/
-note: Examiner Professor Gabe Brostow, UCL; Departed to become research scientist Vicon
+website: https://www.microsoft.com/applied-sciences/people/sunando-sengupta
+note: Departed to Vicon, Examined by Prof. Gabe Brostow, UCL 
 category: Graduated PhD Students
 photo: 
+year: 2014
 ---

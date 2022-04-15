@@ -2,8 +2,9 @@
 name: Carl Henrik Ek
 title: Dr.
 email: 
-website: http://cms.brookes.ac.uk/staff/CarlEk/
-note: Departed to UC-Berkley, examiner Professor Trevor Darrell, UC-Berkley
+website: http://carlhenrik.com/
+note: Departed to UC Berkley, Examined by Prof. Trevor Darrell, UC Berkley
 category: Graduated PhD Students
 photo: 
+year: 2009
 ---
