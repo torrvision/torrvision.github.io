@@ -9,17 +9,19 @@ header:
 permalink: "/prizes/"
 ---
 
-A.G. Baydin, L. Shao, W. Bhimji, L. Heinrich, L.F. Meadows, J. Liu, A. Munk, S. Naderiparizi, B. Gram-Hansen, G. Louppe, M. Ma, X. Zhao, P.H.S. Torr, V. Lee, K. Cranmer, Prabhat, F. Wood. 2019. [Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale](https://dl.acm.org/doi/10.1145/3295500.3356180), International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), 2019. **Best Paper Finalist**
+Feihu Zhang, Victor Prisacariu, Ruigang Yang, Philip H.S. Torr, [GANet: Guided Aggregation Net for End-to-end Stereo matching](https://arxiv.org/pdf/1904.06587.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. **Best Paper Finalists**.
+
+A.G. Baydin, L. Shao, W. Bhimji, L. Heinrich, L.F. Meadows, J. Liu, A. Munk, S. Naderiparizi, B. Gram-Hansen, G. Louppe, M. Ma, X. Zhao, P.H.S. Torr, V. Lee, K. Cranmer, Prabhat, F. Wood. [Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale](https://dl.acm.org/doi/10.1145/3295500.3356180), International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), 2019. **Best Paper Finalist**.
 
 R. de Bem, A. Arnab, S. Golodetz, M. Sapienza, P.H.S. Torr, [Deep Fully-Connected Part-Based Models for Human Pose Estimation](http://www.robots.ox.ac.uk/~tvg/publications/2018/debem18.pdf), Asian Conference on Machine Learning (ACML), 2018. **Best paper runner-up.**
 
-S. Zheng, S. Jayasumana, B. Romera-Paredes, P.H.S. Torr, [Live demo for semantic image segmentation with CRF-RNN](http://crfasrnn.torr.vision/), International Conference on Computer Vision (ICCV), 2015. **Best demo award.**
+S. Zheng, S. Jayasumana, B. Romera-Paredes, P.H.S. Torr, [Live demo for semantic image segmentation with CRF-RNN](http://crfasrnn.torr.vision/), International Conference on Computer Vision (ICCV), 2015. **Best demo award**.
 
-L. Ladicky, C. Russell, P. Kohli, P.H.S. Torr, [Graph Cut based Inference with Co-occurrence Statistics](http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2010/ECCV2010/ip_map.pdf), Proceedings of the Eleventh European Conference on Computer Vision (ECCV), 2010. Oral and **Best Paper Award at Conference.**
+L. Ladicky, C. Russell, P. Kohli, P.H.S. Torr, [Graph Cut based Inference with Co-occurrence Statistics](http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2010/ECCV2010/ip_map.pdf), Proceedings of the Eleventh European Conference on Computer Vision (ECCV), 2010. Oral and **Best Paper Award at Conference**.
 
-L. Ladicky, P. Sturgess, C. Russell, S. Sengupta, Y. Bastanlar, W. Clocksin and P.H.S. Torr. [Joint Optimisation for Object Class Segmentation and Dense Stereo Reconstruction](http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2010/BMVC10/torr_stereo10.pdf), In Proceedings British Machine Vision Conference (BMVC), 2010. Oral and **BMVA Best Science Paper Prize at Conference.**
+L. Ladicky, P. Sturgess, C. Russell, S. Sengupta, Y. Bastanlar, W. Clocksin and P.H.S. Torr. [Joint Optimisation for Object Class Segmentation and Dense Stereo Reconstruction](http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2010/BMVC10/torr_stereo10.pdf), In Proceedings British Machine Vision Conference (BMVC), 2010. Oral and **BMVA Best Science Paper Prize at Conference**.
 
-Pawan Kumar Mudigonda PhD Thesis: [Combinatorial and Convex Optimization for Probabilistic Models in Computer Vision](https://www.robots.ox.ac.uk/~tvg/Theses/Pawan_thesis.pdf), awarded **[Sullivan Doctoral thesis prize 2009](http://www.comp.leeds.ac.uk/bmvc2008/awards.html).**
+Pawan Kumar Mudigonda PhD Thesis: [Combinatorial and Convex Optimization for Probabilistic Models in Computer Vision](https://www.robots.ox.ac.uk/~tvg/Theses/Pawan_thesis.pdf), awarded **[Sullivan Doctoral thesis prize 2009](http://www.comp.leeds.ac.uk/bmvc2008/awards.html)**.
 
 O. Woodford, P.H.S. Torr, I. Reid, and A.W. Fitzgibbon, [Global Stereo Reconstruction under Second Order Smoothness Priors](https://www.robots.ox.ac.uk/~tvg/Papers/2008/CVPR08/Woodford08.pdf), In Proceedings IEEE Conference of Computer Vision and Pattern Recognition (CVPR), 2008 (oral) **[Best Paper at Conference](http://vision.eecs.ucf.edu/).**
 
