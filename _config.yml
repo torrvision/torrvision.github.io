@@ -14,7 +14,7 @@ title: 'Torr Vision Group'
 slogan: '@ University of Oxford'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Welcome to the homepage of the Torr Vision Group at the Univeristy of Oxford'
+description: 'Welcome to the homepage of the Torr Vision Group at the University of Oxford'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="https://kevin-ssy.github.io/">Shuyang Sun</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> </p>'
