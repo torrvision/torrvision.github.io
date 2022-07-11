@@ -19,7 +19,7 @@ You should hold a relevant PhD/D.Phil with post-qualification research experienc
  
 Informal enquiries may be addressed to Prof Philip Torr philip.torr@eng.ox.ac.uk
  
-For more information about working at the Department, see [https://eng.ox.ac.uk/about/work-with-us/](www.eng.ox.ac.uk/about/work-with-us/)
+For more information about working at the Department, see www.eng.ox.ac.uk/about/work-with-us/
  
 Only applications received before midday on the 8th August 2022 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
  
