@@ -5,5 +5,5 @@ pdf_url: "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Langua
 category: "vision"
 author_list: "Zhao Yang, Jiaqi Wang, Yansong Tang, Kai Chen, Hengshuang Zhao, Philip HS Torr"
 grant: "NULL"
-pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022"
 ---
