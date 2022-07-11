@@ -5,5 +5,5 @@ pdf_url: "https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Mimicking_th
 category: "vision"
 author_list: "Yujun Shi, Kuangqi Zhou, Jian Liang, Zihang Jiang, Jiashi Feng, Philip HS Torr, Song Bai, Vincent YF Tan"
 grant: "NULL"
-pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022"
 ---
