@@ -5,5 +5,5 @@ pdf_url: "http://www.robots.ox.ac.uk/~phst/Papers/GraphiCon/GraphCon.zip](https:
 category: "vision"
 author_list: "Guangrun Wang, Yansong Tang, Liang Lin, Philip HS Torr"
 grant: "NULL"
-pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+pub_in: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022"
 ---
