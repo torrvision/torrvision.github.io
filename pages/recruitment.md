@@ -43,7 +43,7 @@ Informal enquiries may be addressed to Prof Philip Torr philip.torr@eng.ox.ac.uk
  
 For more information about working at the Department, see www.eng.ox.ac.uk/about/work-with-us/
  
-Only applications received before midday on the 8th August 2022 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
+Only applications received before midday on the 15th August 2022 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
  
 The University offers a comprehensive range of childcare services and has very generous maternity, adoption, paternity, shared parental leave schemes in operation. Requests for flexible working are always taken into consideration. We offer an enhanced entitlement to 38 days’ annual leave per year (pro-rata for part-time staff), inclusive of bank holidays and fixed closure days. Additional long service leave is available after 5 years’ service. An additional scheme enables staff to request to purchase up to ten additional days’ annual leave in each holiday year. Other staff benefits can be found here [https://hr.admin.ox.ac.uk/staff-benefits](https://hr.admin.ox.ac.uk/staff-benefits) 
  
