@@ -9,7 +9,7 @@ header:
 permalink: "/recruitment/"
 ---
 
-## [Senior Research Associate in Machine Learning](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=156460)
+## [Senior Research Associate in Machine Learning](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=158846)
 
 We are seeking a full time Senior Research Associate in Machine Learning to join Professor Torr’s research group at the Department of Engineering Science (central Oxford). The group is an internationally leading research group that has numerous scientific awards and has close links with some of the top industrial research labs, more information can be found here http://www.robots.ox.ac.uk/~tvg/. The post is fixed-term for 1 year with funding provided by industry.
  
