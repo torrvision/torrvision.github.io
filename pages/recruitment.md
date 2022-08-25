@@ -11,7 +11,7 @@ permalink: "/recruitment/"
 
 ## [Postdoctoral Research Assistant in Machine Learning](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_applicant_no=&p_display_in_irish=N&p_internal_external=E&p_process_type=&p_recruitment_id=159613&p_display_apply_ind=Y&p_form_profile_detail=&p_refresh_search=Y)
 
-We are seeking a Postdoctoral Research Assistant in Machine Learning to join Professor Torr’s research group at the Department of Engineering Science (central Oxford). The group is an internationally leading research group that has numerous scientific awards and has close links with some of the top industrial research labs, more information can be found here http://www.robots.ox.ac.uk/~tvg/. The posts are fixed-term for 2 year in the first instance with funding provided by the EPSRC.
+We are seeking a Postdoctoral Research Assistant in Machine Learning to join Professor Torr’s research group at the Department of Engineering Science (central Oxford). The group is an internationally leading research group that has numerous scientific awards and has close links with some of the top industrial research labs, more information can be found here [http://www.robots.ox.ac.uk/~tvg/](https://www.robots.ox.ac.uk/~tvg/). The posts are fixed-term for 2 year in the first instance with funding provided by the EPSRC.
 
 You will be responsible for the development and implementation of novel computer vision and learning algorithms for reliable, robust, and efficient deep neural networks. 
 
