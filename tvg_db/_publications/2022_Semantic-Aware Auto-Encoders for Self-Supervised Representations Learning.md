@@ -1,7 +1,7 @@
 ---
 title: "Semantic-Aware Auto-Encoders for Self-Supervised Representation Learning"
 year: 2022
-pdf_url: "http://www.robots.ox.ac.uk/~phst/Papers/GraphiCon/GraphCon.zip](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Semantic-Aware_Auto-Encoders_for_Self-Supervised_Representation_Learning_CVPR_2022_paper.pdf"
+pdf_url: "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Semantic-Aware_Auto-Encoders_for_Self-Supervised_Representation_Learning_CVPR_2022_paper.pdf"
 category: "vision"
 author_list: "Guangrun Wang, Yansong Tang, Liang Lin, Philip HS Torr"
 grant: "NULL"
