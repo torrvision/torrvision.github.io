@@ -37,7 +37,7 @@ As Senior Research Manager you will assume responsibility for the administration
 
 You should be educated to degree level with experience of administration or project management in a research organisation. Proven experience of working independently and being proactive are essential, as well as aptitude for financial management.
 
-Informal enquiries may be addressed to Louise Bristow (email: Louise.Bristow@eng.ox.ac.uk)
+Informal enquiries may be addressed to Louise Bristow (email: [Louise.Bristow@eng.ox.ac.uk](Louise.Bristow@eng.ox.ac.uk))
 
 Only online applications received before midday on the 23rd September 2022 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
 
