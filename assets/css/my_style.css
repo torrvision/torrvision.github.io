@@ -592,8 +592,8 @@ a.member {
         .my_logo {
             display: block !important;
             margin: auto;
-            padding: 20px 0px 20px 0px;
-            max-height: 70%;
+            padding: 0px 0px 0px 0px;
+            max-height: 36%;
         }
         .banner > article .inner {height: 100%}
         .banner > article .inner > header {height: 85%}
