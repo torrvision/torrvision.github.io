@@ -18,7 +18,9 @@ homepage: true
       <ul class="timeline col-md-6 off-md-6">
         {% assign news = site.news | sort: "timestamp" | reverse %}
         {% for n in news %}
-          {% include news_item.html news_date=n.news_date title=n.title year=n.year news_content=n.news_content %}
+          {% if n.show_on_index %}
+            {% include news_item.html news_date=n.news_date title=n.title year=n.year news_content=n.news_content %}
+          {% endif %}
         {% endfor %}
       </ul>
   </div>
