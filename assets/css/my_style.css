@@ -597,7 +597,7 @@ a.member {
         }
         .banner > article .inner {height: 100%}
         .banner > article .inner > header {height: 85%}
-        .banner_top {height: 15%}
+        .banner_top {height: 10%}
         body.is-mobile .banner_top {height: 5%}
         @media screen and (max-width: 980px) {
             .banner_top {height: 10%}
