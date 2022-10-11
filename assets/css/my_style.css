@@ -594,6 +594,7 @@ a.member {
             margin: auto;
             padding: 0px 0px 0px 0px;
             max-height: 36%;
+  	    filter: drop-shadow( 3px 3px 3px #333333);
         }
         .banner > article .inner {height: 100%}
         .banner > article .inner > header {height: 85%}
