@@ -17,7 +17,7 @@ The main research focus of the role is to lead a team of PDRAs and DPhil student
 
 You should hold a relevant Ph.D/D.Phil with post-qualification research experience. You should have the ability to independently plan and manage a research project, including a research budget and have a strong publication record (commensurate with opportunities and experience) at principal computer vision conferences (CVPR, ECCV, ICCV, Neurips, ICML, ICLR etc.). 
 
-Informal enquiries may be addressed to [philip.torr@eng.ox.ac.uk](philip.torr@eng.ox.ac.uk). 
+Informal enquiries may be addressed to philip.torr@eng.ox.ac.uk. 
 
 Only applications received before midday on the 12th December 2022 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application. 
 
