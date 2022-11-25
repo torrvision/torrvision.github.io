@@ -1,9 +1,9 @@
 ---
 name: Thomas Joy
-title: Mr.
+title: Dr.
 email: thomas.joy@stcatz.ox.ac.uk
-website: NULL
-note: Departed to FiveAI, examined by Prof. Brooks Paige
+website: https://thwjoy.github.io/
+note: Departed to FiveAI, examined by Prof. Brooks Paige, UCL
 category: Graduated PhD Students
 photo: "/images/people/ThomasJoy.png"
 year: 2022
