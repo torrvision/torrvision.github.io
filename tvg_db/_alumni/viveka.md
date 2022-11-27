@@ -1,9 +1,9 @@
 ---
 name: Viveka Kulharia
 title: Dr.
-email: viveka@robots.ox.ac.uk
+email: vivekakulharia@gmail.com
 website: http://vivkul.github.io
-note: Departed to Cruise, examined by Prof. Ingmar Posner and Prof. Jinwoo Shin
+note: Departed to Cruise LLC, examined by Prof. Ingmar Posner and Prof. Jinwoo Shin
 category: Graduated PhD Students
 photo: /images/people/VivekaKulharia.jpg
 year: 2022
