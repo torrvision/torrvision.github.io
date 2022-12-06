@@ -1,6 +1,6 @@
 ---
 name: Swapneel Mehta
-title: 
+title: Mr.
 photo: images/people/swapnneelm.png
 email: swapneel.mehta@nyu.edu
 website: https://mehtaver.se/about
