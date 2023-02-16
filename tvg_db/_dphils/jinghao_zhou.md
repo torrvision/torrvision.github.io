@@ -1,0 +1,10 @@
+---
+name: Jinghao Zhou
+title: Mr.
+email: jensen.zhoujh@gmail.com
+website: https://shallowtoil.github.io
+note: NULL
+category: Graduate Students
+photo: /images/people/JinghaoZhou.jpeg
+year: 2022
+---
