@@ -1,7 +1,7 @@
 ---
 name: Pau de Jorge
 title: Mr.
-email: pau@robots.ox.ac.uk
+email: mailto:pau@robots.ox.ac.uk
 website: 
 note: NULL
 category: Graduate Students

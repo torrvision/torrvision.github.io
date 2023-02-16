@@ -1,7 +1,7 @@
 ---
 name: Francesco Pinto
 title: Mr.
-email: francesco.pinto@stx.ox.ac.uk
+email: mailto:francesco.pinto@stx.ox.ac.uk
 website: NULL
 note: NULL
 category: Graduate Students

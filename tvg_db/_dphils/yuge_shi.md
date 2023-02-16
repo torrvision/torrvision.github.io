@@ -1,7 +1,7 @@
 ---
 name: "Yuge (Jimmy) Shi"
 title: Ms.
-email: yshi@robots.ox.ac.uk
+email: mailto:yshi@robots.ox.ac.uk
 website: http://yugeten.github.io/
 note: NULL
 category: Graduate Students

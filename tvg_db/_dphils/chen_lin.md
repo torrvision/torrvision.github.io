@@ -1,7 +1,7 @@
 ---
 name: Chen Lin
 title: Mr.
-email: chen.lin@eng.ox.ac.uk
+email: mailto:chen.lin@eng.ox.ac.uk
 website: 
 note: NULL
 category: Graduate Students

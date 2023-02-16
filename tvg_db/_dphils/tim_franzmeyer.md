@@ -1,7 +1,7 @@
 ---
 name: Tim Franzmeyer
 title: Mr.
-email: frtim@robots.ox.ac.uk
+email: mailto:frtim@robots.ox.ac.uk
 website: 
 note: NULL
 category: Graduate Students

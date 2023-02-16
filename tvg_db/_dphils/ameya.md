@@ -1,7 +1,7 @@
 ---
 name: Ameya Prabhu
 title: Mr.
-email: ameya.prabhu@mailfence.com
+email: mailto:ameya.prabhu@mailfence.com
 website: https://drimpossible.github.io/
 note: NULL
 category: Graduate Students

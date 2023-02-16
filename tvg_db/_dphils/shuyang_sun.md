@@ -1,7 +1,7 @@
 ---
 name: Shuyang Sun
 title: Mr.
-email: kevinsun@robots.ox.ac.uk
+email: mailto:kevinsun@robots.ox.ac.uk
 website: https://kevin-ssy.github.io
 note: NULL
 category: Graduate Students
