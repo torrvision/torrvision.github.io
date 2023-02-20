@@ -36,7 +36,7 @@ permalink: "/people/"
 
 {% assign postdocs = site.postdocs | sort: "name" | reverse %}
 {% for pd in postdocs %}
-	{% include member.html name=pd.name photo=pd.photo website=pd.website email=pd.email %}
+	{% include member.html name=pd.name photo=pd.photo title=pd.title website=pd.website email=pd.email %}
 {% endfor %}
 
 
