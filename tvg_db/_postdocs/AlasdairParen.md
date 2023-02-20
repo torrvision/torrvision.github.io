@@ -1,7 +1,7 @@
 ---
-name: "Alasdair Paren” 
+name: "Alasdair Paren"
 photo: "/images/people/AlasdairParen.jpeg"
-email: "mailto:sann5961@ox.ac.uk"
+email: "mailto:aparen@robots.ox.ac.uk"
 website: "https://alasdair-p.github.io/Alasdair-P/"
 ---
 
