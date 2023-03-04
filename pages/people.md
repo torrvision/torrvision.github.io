@@ -34,7 +34,7 @@ permalink: "/people/"
 <h3 class="medium-12 section-title">Research Fellows</h3>
 <br/>
 
-{% assign postdocs = site.postdocs | sort: "name" | reverse %}
+{% assign postdocs = site.postdocs | sort: "name" %}
 {% for pd in postdocs %}
 	{% include member.html name=pd.name photo=pd.photo title=pd.title website=pd.website email=pd.email %}
 {% endfor %}
