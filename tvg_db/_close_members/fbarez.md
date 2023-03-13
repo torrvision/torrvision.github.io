@@ -1,6 +1,6 @@
 ---
 name: Fazl Barez
-title: PhD student.
+title: Mr.
 email: fazl@robots.ox.ac.uk
 website: https://fbarez.github.io
 note: NULL
