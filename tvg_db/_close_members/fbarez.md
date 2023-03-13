@@ -1,6 +1,6 @@
 ---
 name: Fazl Barez
-title: Mr.
+title: 
 email: fazl@robots.ox.ac.uk
 website: https://fbarez.github.io
 note: Visiting DPhil student  
