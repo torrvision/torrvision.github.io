@@ -69,7 +69,7 @@ permalink: "/people/"
 <h3 class="medium-12 section-title">Associate Members</h3>
 <br/>
 
-{% for c in site.associate_members %}
+{% for c in site.close_members %}
 	{% include collaborator.html name=c.name title=c.title email=c.email website=c.website note=c.note%}
 {% endfor %}
 <br/>
