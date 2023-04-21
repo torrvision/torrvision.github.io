@@ -3,9 +3,9 @@ name: ---
 name: Francisco Girbal Eiras
 title: Mr.
 email: mailto:francisco.girbaleiras@eng.ox.ac.uk
-website: 
+website: https://fgirbal.github.io
 note: NULL
 category: Graduate Students
-photo: 
+photo: /images/people/FranciscoEiras.jpg
 year: 2020
 ---
