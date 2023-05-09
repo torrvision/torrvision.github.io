@@ -1,5 +1,5 @@
 ---
-name: "Dr. Atılım Güneş Baydin"
+name: "Atılım Güneş Baydin"
 title: Dr.
 photo: 
 email: "gunes@robots.ox.ac.uk"
