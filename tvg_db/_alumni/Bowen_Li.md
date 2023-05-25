@@ -1,8 +1,8 @@
 ---
 name: Bowen Li
-title: Dr
+title: Dr.
 email:
-wesbite: https://mrlibw.github.io/
+website: https://mrlibw.github.io/
 note: Examined by Prof. Ronald Clark and Prof. Fabio Cuzzolin 
 category: Graduated PhD Students
 photo:
