@@ -1,9 +1,9 @@
 ---
 name: Nigel Crook
-title: Dr.
+title: Prof.
 email: NULL
-website: NULL
-note: NULL
+website: https://www.brookes.ac.uk/profiles/staff/nigel-crook/
+note: Professor at Oxford Brookes University
 category: Close Associate Members
 photo: 
 ---
