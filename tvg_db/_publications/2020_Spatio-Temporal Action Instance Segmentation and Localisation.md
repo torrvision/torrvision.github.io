@@ -5,5 +5,5 @@ pdf_url: "NULL"
 category: "vision"
 author_list: "Suman Saha, Gurkit Singh, Michael Sapienza, Philip H.S. Torr, Fabio Cuzzolin"
 grant: ""
-pub_in: "Modelling Human Motion: From Human Perception to Robot Design, Pages:141-161"
+pub_in: "2017 Modelling Human Motion: From Human Perception to Robot Design, Pages:141-161"
 ---
