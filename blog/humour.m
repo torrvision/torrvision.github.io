@@ -1,7 +1,7 @@
----
+html---
 layout: blog
 title: "Oxford Humour Image Captions (OxfordHIC)"
-teaser: "Project page for OxfordHIC"
+teaser: ""
 header:
     image_fullwidth: 
 permalink: "/oxfordhic/"
