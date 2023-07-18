@@ -7,7 +7,7 @@ noindex: true
 
 {% if page.image.title %}
 
-<div class="row t30" style="margin-left: 3%">
+<div class="row t30" style="">
 	<div class="small-12 columns">
 		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
 		{% if page.image.caption_url and page.image.caption %}
@@ -21,7 +21,7 @@ noindex: true
 
 
 
-<div class="row t30" style="margin-left: 3%">
+<div class="row t30" style="">
 	<div class="medium-12 columns">
 		<article>
 		<!--
@@ -36,6 +36,14 @@ noindex: true
 				{{ page.teaser }}
 			</p>
 			{% endif %}
+
+			{% if page.pub_title %}
+				{{ page.pub_title }}
+			{% endif %}
+			<br>
+			{% for author in page.authors %}
+				<a href="author.homepage">author.name<sup>author.affiliation_id</sup></a>
+			{% endfor %}
 
 			{{ content }}
 		</article>
