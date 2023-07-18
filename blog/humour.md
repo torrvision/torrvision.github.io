@@ -1,4 +1,4 @@
-html---
+---
 layout: blog
 title: "Oxford Humour Image Captions (OxfordHIC)"
 teaser: ""
