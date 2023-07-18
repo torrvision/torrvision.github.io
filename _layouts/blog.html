@@ -41,10 +41,12 @@ noindex: true
 				{% if page.pub_title %}
 					<h2>{{ page.pub_title }}</h2>
 				{% endif %}
-				<br>
-				{% for author in page.authors %}
-					<h3><a href="author.homepage">author.name<sup>author.affiliation_id</sup></a></h3>
-				{% endfor %}
+				<be>
+				<h3>
+					{% for author in page.authors %}
+						<a href="author.homepage"> author.name<sup>author.affiliation_id</sup> </a>
+					{% endfor %}
+				</h3>
 	
 				{{ content }}
 			</article>
