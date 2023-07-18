@@ -25,12 +25,6 @@ noindex: true
 	<center>
 		<div class="medium-12 columns">
 			<article>
-			<!--
-				<header>
-					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<h1>{{ page.title }}</h1>
-				</header>
-			-->
 	
 				{% if page.teaser %}
 				<p class="teaser">
@@ -55,7 +49,7 @@ noindex: true
 				</h3>
 				<h3>
 					{% for link in page.links %}
-						<a href="{{ link.link }}">{{ link.name }}
+						<a href="{{ link.link }}">[{{ link.name }}]</a>
 					{% endfor %}
 				</h3>
 				{{ content }}
