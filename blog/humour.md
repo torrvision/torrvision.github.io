@@ -19,4 +19,18 @@ authors:
     - name: 'Philip Torr'
       affiliation_id: '1'
       homepage: 'https://eng.ox.ac.uk/people/philip-torr/'
+affiliations:
+    - name: 'University of Oxford'
+      id: '1'
+    - name: 'KAUST'
+      id: '2'
+    - name: 'Equal Contribution'
+      id: '*'
+links:
+    - name: 'Code'
+      link: ''
+    - name: 'PDF'
+      link: ''
+    - name: 'demo'
+      link: ''
 ---
