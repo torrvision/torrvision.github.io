@@ -53,7 +53,11 @@ noindex: true
 						<sup>{{ aff.id }}</sup>{{ aff.name }}
 					{% endfor %}
 				</h3>
-	
+				<h3>
+					{% for link in page.links %}
+						<a href="{{ link.link }}">{{ link.name }}
+					{% endfor %}
+				</h3>
 				{{ content }}
 			</article>
 		</div><!-- /.medium-12.columns -->
