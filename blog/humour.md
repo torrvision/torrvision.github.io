@@ -31,7 +31,7 @@ links:
       link: ''
     - name: 'PDF'
       link: ''
-    - name: 'demo'
+    - name: 'Demo'
       link: ''
 ---
 
