@@ -38,18 +38,20 @@ noindex: true
 				<be>
 				<h3>
 					{% for author in page.authors %}
-						<a href="{{ author.homepage }}"> {{ author.name }}<sup>{{ author.affiliation_id }}</sup> </a>
+						<a href="{{ author.homepage }}" style="margin-right: 3px"> {{ author.name }}<sup>{{ author.affiliation_id }}</sup> </a>
+						&ensp;
 					{% endfor %}
 				</h3>
 				<br>
 				<h3>
 					{% for aff in page.affiliations %}
-						<sup>{{ aff.id }}</sup>{{ aff.name }}
+						<sup>{{ aff.id }}</sup>{{ aff.name }} &ensp;
 					{% endfor %}
 				</h3>
 				<h3>
 					{% for link in page.links %}
-						<a href="{{ link.link }}">[{{ link.name }}]</a>
+						<a href="{{ link.link }}" style="margin-right: 3px">[{{ link.name }}]</a>
+						&ensp;
 					{% endfor %}
 				</h3>
 				{{ content }}
