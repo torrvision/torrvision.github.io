@@ -1,8 +1,6 @@
 ---
 layout: blog
 title: "Oxford Humour Image Captions (OxfordHIC)"
-teaser:
-    - img_path: 'images/images_for_pub/racoon_demo_video.gif'
 header:
     image_fullwidth: 
 permalink: "/oxfordhic/"
@@ -35,6 +33,16 @@ links:
     - name: 'Demo'
       link: ''
 ---
+
+<table>
+  <tr>
+    <td> <img src="../images/images_for_pub/racoon_demo_video.gif"  alt="1" style="width: 33%" > </td>
+
+    <td> <img src="../images/images_for_pub/monkey_demo_video.gif" alt="2" style="width: 33%" > </td>
+
+    <td> <img src="../images/images_for_pub/teddy_demo_video.gif" alt="right" style="width: 33%" > </td>
+  </tr>
+</table>
 
 ## Abstract
 
