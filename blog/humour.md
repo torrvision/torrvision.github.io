@@ -2,7 +2,7 @@
 layout: blog
 title: "Oxford Humour Image Captions (OxfordHIC)"
 teaser:
-    - img_path: ''
+    - img_path: 'images/images_for_pub/racoon_demo_video.gif'
 header:
     image_fullwidth: 
 permalink: "/oxfordhic/"
