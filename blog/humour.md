@@ -36,8 +36,9 @@ links:
 
 <table>
   <tr>
-    <td> <img src="../images/images_for_pub/racoon_demo_video.gif"  alt="1" style="width: 100%" > </td>
-
+    <td> <img src="../images/images_for_pub/racoon_demo_video.gif"  alt="1" style="width: 100%" > </td>   
+  </tr>
+  <tr>
     <td> <img src="../images/images_for_pub/monkey_demo_video.gif" alt="2" style="width: 100%" > </td>
   </tr>
   <tr>
