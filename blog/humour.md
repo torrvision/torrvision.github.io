@@ -26,7 +26,7 @@ affiliations:
     - name: 'Equal Contribution'
       id: '*'
 links:
-    - name: 'Code'
+    - name: 'Data'
       link: 'https://drive.google.com/drive/folders/1BDuUcMeaWrFD8TwgHLhFPkuAwmoHaVNQ'
     - name: 'Code'
       link: 'https://github.com/runjiali-rl/Oxford_HIC'
