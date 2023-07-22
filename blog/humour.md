@@ -27,7 +27,9 @@ affiliations:
       id: '*'
 links:
     - name: 'Code'
-      link: ''
+      link: 'https://drive.google.com/drive/folders/1BDuUcMeaWrFD8TwgHLhFPkuAwmoHaVNQ'
+    - name: 'Code'
+      link: 'https://github.com/runjiali-rl/Oxford_HIC'
     - name: 'PDF'
       link: ''
     - name: 'Demo'
