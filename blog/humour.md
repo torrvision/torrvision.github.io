@@ -34,8 +34,9 @@ links:
       link: 'https://arxiv.org/pdf/2307.11636.pdf'
 ---
 
+## Demos
+
 <table>
-  <tr> <td> Demos </td> </tr>
   <tr>
     <td> <img src="../images/images_for_pub/rakoon_demo_video_fast.gif"  alt="1" style="width: 100%" > </td>   
   </tr>
