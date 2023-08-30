@@ -9,6 +9,10 @@ header:
 permalink: "/prizes/"
 ---
 
+Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip HS Torr, Li Zhang, [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840), World Artificial Intelligence Conference (WAIC), Youth Outstanding Paper.
+
+F. Eiras, A. Bibi, R. Bunel, K. Dj Dvijotham, P. H. S. Torr, M. Pawan Kumar, [Provably Correct Physics-Informed Neural Networks](https://arxiv.org/abs/2305.10157). Outstanding Paper Award at the 2nd Workshop in Formal Verification of Machine Learning at ICML 2023.
+
 Feihu Zhang, Victor Prisacariu, Ruigang Yang, Philip H.S. Torr, [GANet: Guided Aggregation Net for End-to-end Stereo matching](https://arxiv.org/pdf/1904.06587.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. **Best Paper Finalists**.
 
 A.G. Baydin, L. Shao, W. Bhimji, L. Heinrich, L.F. Meadows, J. Liu, A. Munk, S. Naderiparizi, B. Gram-Hansen, G. Louppe, M. Ma, X. Zhao, P.H.S. Torr, V. Lee, K. Cranmer, Prabhat, F. Wood. [Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale](https://dl.acm.org/doi/10.1145/3295500.3356180), International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), 2019. **Best Paper Finalist**.
