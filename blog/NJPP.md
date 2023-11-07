@@ -35,13 +35,13 @@ links:
 ## Demos
 <table>
   <tr>
-    <td> <img src="../images/images_for_pub/njp_1.png"  alt="1" style="width: 100%" > </td>   
+    <td> <img src="../images/images_for_pub/njpp_1.jpg"  alt="1" style="width: 100%" > </td>   
   </tr>
   <tr>
-    <td> <img src="../images/images_for_pub/njp_2.png"  alt="1" style="width: 100%" > </td>   
+    <td> <img src="../images/images_for_pub/njpp_2.png"  alt="1" style="width: 100%" > </td>   
   </tr>
     <tr>
-    <td> <img src="../images/images_for_pub/njp_3.png"  alt="1" style="width: 100%" > </td>   
+    <td> <img src="../images/images_for_pub/njpp_3.png"  alt="1" style="width: 100%" > </td>   
   </tr>
 </table>
 
