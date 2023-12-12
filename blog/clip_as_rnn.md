@@ -51,4 +51,4 @@ Experimental results show that our method outperforms not only the training-free
 
 ## Method
 
-<img src="../images/images_for_pub/car_method.png" style="width: 100%" > 
+<img src="../images/car_method.png" style="width: 100%" > 
