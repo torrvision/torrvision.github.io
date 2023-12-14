@@ -6,7 +6,7 @@ header:
 permalink: "/clip_as_rnn/"
 pub_title: 'CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor'
 authors:
-    - name: 'Shuyang Sun'
+    - name: 'Shuyang Sun (on the job market!)'
       affiliation_id: '1, 2*'
       homepage: 'https://kevin-ssy.github.io/'
     - name: 'Runjia Li'
