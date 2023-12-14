@@ -31,10 +31,10 @@ affiliations:
 links:
     - name: 'Demo'
       link: ''
-    - name: 'Code (under review)'
-      link: ''
+    - name: 'Code'
+      link: 'https://github.com/kevin-ssy/CLIP_as_RNN'
     - name: 'PDF'
-      link: ''
+      link: 'https://arxiv.org/abs/2312.07661'
 ---
 
 ## TL;DR
