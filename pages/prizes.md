@@ -9,6 +9,8 @@ header:
 permalink: "/prizes/"
 ---
 
+Aleksandar Petrov, Philip H.S. Torr, Adel Bibi, When Do Prompting and Prefix-Tuing Work? A Theory of Capabilities and Imitations. Entropic Paper Award at the [NeurIPS 2023 Workshop: I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models](https://sites.google.com/view/icbinb-2023?pli=1).
+
 Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip HS Torr, Li Zhang, [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840), World Artificial Intelligence Conference (WAIC), Youth Outstanding Paper.
 
 F. Eiras, A. Bibi, R. Bunel, K. Dj Dvijotham, P. H. S. Torr, M. Pawan Kumar, [Provably Correct Physics-Informed Neural Networks](https://arxiv.org/abs/2305.10157). Outstanding Paper Award at the 2nd Workshop in Formal Verification of Machine Learning at ICML 2023.
