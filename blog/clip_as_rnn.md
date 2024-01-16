@@ -11,7 +11,7 @@ authors:
       homepage: 'https://kevin-ssy.github.io/'
     - name: 'Runjia Li'
       affiliation_id: '1*'
-      homepage: 'https://www.linkedin.com/in/runjiali-b169451a9/'
+      homepage: 'https://runjiali-rl.github.io/'
     - name: 'Philip Torr'
       affiliation_id: '1'
       homepage: 'https://eng.ox.ac.uk/people/philip-torr/'
