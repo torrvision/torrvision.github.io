@@ -19,7 +19,7 @@ permalink: "/people/"
 
 {% include member.html name="Cassandra Warren" title="Group Administrator" %}
 	
-{% include member.html name="	Lauren Lathey" title="Project Manager" %}
+{% include member.html name="	Katie Bourke" title="Programme Manager" email="mailto:katie.bourke@eng.ox.ac.uk"%}
 
 <hr/>
 
