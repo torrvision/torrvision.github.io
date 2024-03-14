@@ -9,6 +9,40 @@ header:
 permalink: "/recruitment/"
 ---
 
+There are two postdoc openings now in our group.
+
+### Novo Nordisk Postdoctoral Research Fellow
+[Apply](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=171279)
+
+Novo Nordisk is funding a prestigious fellowship programme at the University of Oxford for basic science researchers focused on diabetes and other cardiometabolic diseases. We are looking to recruit five outstanding postdoctoral researchers who can utilise the support offered by this programme to become future leaders in the field, developing scientific excellence and ultimately improving patients’ lives.
+ 
+In Oxford, world-class research is conducted across the spectrum of population, clinical and basic science. Depending on the project selected, you will be based in:
+1)     Institute of Developmental and Regenerative Medicine
+2)     Department of Physiology, Anatomy and Genetics
+3)     Sir William Dunn School of Pathology
+4)     Department of Chemistry
+5)     Department of Engineering Science
+6)     Division of Cardiovascular Medicine, Radcliffe Department of Medicine (RDM)
+7)     Nuffield Department of Clinical Neurosciences
+8)     Oxford Centre for Diabetes, Endocrinology and Metabolism, RDM
+9)     The Kennedy Institute of Rheumatology
+ 
+There is also the opportunity to spend time in the research facilities of Novo Nordisk (both in Oxford and Denmark). This distribution of time will depend on the specific project.
+You will be responsible for conducting the research project selected, including the production of novel scientific data and presentation at national and international meetings.
+You should have a PhD/DPhil (completed or close to completion) in a biomedical subject, or other relevant subject, together with skills and experience relevant to biomedical research. You will typically have no more than three or four years of postdoctoral experience at the start of the fellowship (Autumn 2024) and have a strong CV, having published in peer reviewed journals and presented at international meetings. As well as an enthusiastic interest in the projects you select, you will have evidence of excellent interpersonal skills and leadership, with the ability to communicate research ideas and results in a clear and logical way.
+ 
+This is a full-time post offered for a fixed-term of three years.
+ 
+Owing to the nature of the research, this job will require additional security pre-employment checks: a satisfactory basic Disclosure and Barring Service check; University security screening (e.g. identity checks).
+ 
+You will be required to upload a supporting statement, CV and names of referees as part of your online application. Your supporting statement should include your ranking of up to three research projects that you are interested in, giving reasons for your particular selections.
+ 
+Further information is detailed in the job description.
+ 
+The closing date for applications is midday on Monday 15 April 2024 and interviews will be held on Monday 10 June 2024.
+
+---
+
 ### Postdoctoral Research Assistant in Machine Learning
 
 [Apply](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=171003)
