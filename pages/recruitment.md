@@ -9,7 +9,7 @@ header:
 permalink: "/recruitment/"
 ---
 
-There are two postdoc openings now in our group.
+<!-- There are two postdoc openings now in our group.
 
 ### Novo Nordisk Postdoctoral Research Fellow
 [Apply](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=171279)
@@ -61,4 +61,4 @@ For more information about working at the Department, see www.eng.ox.ac.uk/about
  
 Only online applications received before midday on 4th April 2024 can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
  
-The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
+The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology. -->
