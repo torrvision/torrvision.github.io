@@ -1,10 +1,10 @@
 ---
 name: Jishnu Mukhoti
-title: Mr.
+title: Dr.
 email: mailto:jishnumukhoti7@gmail.com
 website: https://omegafragger.github.io/
-note: NULL
+note: Departed to Finster AI, Examined by Dr Balaji Lakshminarayanan, Google DeepMind
 category: Graduate Students
 photo: /images/people/JishnuMukhoti.jpeg
-year: 2019
+year: 2023
 ---
