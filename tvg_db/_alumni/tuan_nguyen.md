@@ -1,10 +1,10 @@
 ---
 name: A. Tuan Nguyen
-title: Mr.
-email: mailto:tuan@robots.ox.ac.uk
+title: Dr.
+email: mailto:a.tuan.nguyen@outlook.com
 website: http://www.atuannguyen.com
-note: Departed to Meta, Examined by Dr. Carl Henrik Ek, Cambridge
-category: Graduate Students
+note: Departed to Meta, Examined by Prof. Andrea Vedaldi and Dr. Carl Henrik Ek
+category: Graduated PhD Students
 photo: /images/people/ATuanNguyen.jpg
 year: 2024
 ---
