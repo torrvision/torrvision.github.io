@@ -30,7 +30,7 @@ affiliations:
       id: '*'
 links:
     - name: 'Demo'
-      link: ''
+      link: 'https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container'
     - name: 'Code'
       link: 'https://github.com/kevin-ssy/CLIP_as_RNN'
     - name: 'PDF'
