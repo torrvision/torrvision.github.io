@@ -24,7 +24,7 @@ authors:
 affiliations:
     - name: 'University of Oxford'
       id: '1'
-    - name: 'Google Research'
+    - name: 'Google DeepMind'
       id: '2'
     - name: 'Equal Contribution'
       id: '*'
@@ -38,7 +38,7 @@ links:
 ---
 
 ## TL;DR
-We proposed a framework that can segment countless visual concepts without any training endeavor. 
+We proposed a framework that can segment countless visual concepts without any training endeavour. 
 Our method outperforms not only the training-free counterparts, but also those fine-tuned with millions of additional data samples, and sets new state-of-the-art records for both zero-shot semantic and referring image segmentation tasks.
 
 <img src="../images/images_for_pub/clip_as_rnn_teaser.png" style="width: 100%" > 
