@@ -53,10 +53,12 @@ Neural image classifiers are known to undergo severe performance degradation whe
 ## Citation
 
 ```
-@article{yuan2022not,
-  title={Not just pretty pictures: Text-to-image generators enable interpretable interventions for robust representations},
-  author={Yuan, Jianhao and Pinto, Francesco and Davies, Adam and Gupta, Aarushi and Torr, Philip},
-  journal={arXiv preprint arXiv:2212.11237},
-  year={2022}
+@inproceedings{
+yuan2024not,
+title={Not Just Pretty Pictures: Toward Interventional Data Augmentation Using Text-to-Image Generators},
+author={Jianhao Yuan and Francesco Pinto and Adam Davies and Philip Torr},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=b89JtZj9gm}
 }
 ```
