@@ -3,7 +3,8 @@ name: Runjia Li
 title: Mr.
 email: runjia@robots.ox.ac.uk
 website: https://runjiali-rl.github.io/
-note: Undergraduate Intern supervised by Shuyang Sun
-category: Intern
-photo: 
+note: NULL
+category: Graduate Students
+photo: images/people/RunjiaLi.png
+year: 2024
 ---
