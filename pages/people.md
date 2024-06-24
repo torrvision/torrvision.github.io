@@ -58,6 +58,16 @@ permalink: "/people/"
 <br/>
 <hr/>
 
+<h3 class="medium-12 section-title">Associate Members</h3>
+<br/>
+
+{% for c in site.close_members %}
+	{% include collaborator.html name=c.name title=c.title email=c.email website=c.website note=c.note%}
+{% endfor %}
+<br/>
+
+<hr/>
+
 <h3 class="medium-12 section-title">Graduated PhD Students</h3>
 <br/>
 
@@ -66,15 +76,7 @@ permalink: "/people/"
 	{% include collaborator.html name=a.name title=a.title email=a.email website=a.website note=a.note year=a.year %}
 {% endfor %}
 <br/>
-<hr/>
 
-<h3 class="medium-12 section-title">Associate Members</h3>
-<br/>
-
-{% for c in site.close_members %}
-	{% include collaborator.html name=c.name title=c.title email=c.email website=c.website note=c.note%}
-{% endfor %}
-<br/>
 <hr/>
 
 
