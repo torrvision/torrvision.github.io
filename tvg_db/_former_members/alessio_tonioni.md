@@ -1,9 +1,9 @@
 ---
 name: Alessio Tonioni
-title: Mr.
+title: Dr.
 email: NULL
 website: NULL
-note: NULL
+note: Research scientist at Google Zurich. Former visiting student.
 category: Former Members
 photo: 
 ---
