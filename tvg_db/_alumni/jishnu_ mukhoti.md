@@ -6,5 +6,5 @@ website: https://omegafragger.github.io/
 note: Departed to Finster AI, Examined by Dr Balaji Lakshminarayanan, Google DeepMind
 category: Graduate Students
 photo: /images/people/JishnuMukhoti.jpeg
-year: 2023
+year: 2024
 ---
