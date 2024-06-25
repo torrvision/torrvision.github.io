@@ -4,5 +4,6 @@ title: Mr.
 email: clement@clementneo.com
 website: https://clementneo.com/
 category: Intern
+note: Summer Intern
 photo: /images/people/ClementNeo.jpg
 ---
