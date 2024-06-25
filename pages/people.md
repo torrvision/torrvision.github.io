@@ -62,7 +62,7 @@ permalink: "/people/"
 <br/>
 
 {% for c in site.close_members %}
-	{% include member.html name=c.name photo=d.photo email=c.email website=c.website year=d.year%}
+	{% include member.html name=c.name photo=c.photo email=c.email website=c.website year=c.year%}
 {% endfor %}
 <br/>
 
