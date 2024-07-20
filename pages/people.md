@@ -19,15 +19,15 @@ permalink: "/people/"
 
 {% include member.html name="Cassandra Warren" title="Group Administrator" %}
 	
-{% include member.html name="	Katie Bourke" title="Programme Manager" email="mailto:katie.bourke@eng.ox.ac.uk"%}
+{% include member.html name="Katie Bourke" title="Programme Manager" email="mailto:katie.bourke@eng.ox.ac.uk"%}
 
 <hr/>
 
 <h3 class="medium-12 section-title" >Senior Researchers</h3>
 <br/>
 
-{% for d in site.senior_researchers %}
-	{% include member.html name=d.name photo=d.photo website=d.website email=d.email year=d.year%}
+{% for sr in site.senior_researchers %}
+	{% include member.html name=sr.name photo=sr.photo title=sr.title website=sr.website email=sr.email %}
 {% endfor %}
 
 
