@@ -26,7 +26,7 @@ permalink: "/people/"
 <h3 class="medium-12 section-title" >Senior Researchers</h3>
 <br/>
 
-{% for sr in site.senior_researchers %}
+{% for sr in site.senior_researchers | sort: "name" %}
 	{% include member.html name=sr.name photo=sr.photo title=sr.title website=sr.website email=sr.email %}
 {% endfor %}
 
