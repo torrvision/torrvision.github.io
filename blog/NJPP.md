@@ -37,16 +37,14 @@ links:
 Neural image classifiers are known to undergo severe performance degradation when exposed to inputs that exhibit covariate shifts with respect to the training distribution. A general interventional data augmentation (IDA) mechanism that simulates arbitrary interventions over spurious variables has often been conjectured as a theoretical solution to this problem and approximated to varying degrees of success. In this work, we study how well modern Text-to-Image (T2I) generators and associated image editing techniques can solve the problem of IDA. We experiment across a diverse collection of benchmarks in domain generalization, ablating across key dimensions of T2I generation, including interventional prompts, conditioning mechanisms, and post-hoc filtering, showing that it substantially outperforms previously state-of-the-art image augmentation techniques independently of how each dimension is configured. We discuss the comparative advantages of using T2I for image editing versus synthesis, also finding that a simple retrieval baseline presents a surprisingly effective alternative, which raises interesting questions about how generative models should be evaluated in the context of domain generalization.
 
 ## Motivation + Problem Setting
-<div style="text-align: left">Text-to-Image (T2I) generators enable flexible, simple, and powerful Interventional Data Augmentation (IDA)
-- T2I-enabled image editing/synthesis simulates interventional data
-- Train downstream classifiers on real + synthetic data </div>
+<div style="text-align: left"> Text-to-Image (T2I) generators enable flexible, simple, and powerful Interventional Data Augmentation (IDA)</div>
+<div style="text-align: left">- T2I-enabled image editing/synthesis simulates interventional data</div>
+<div style="text-align: left">- Train downstream classifiers on real + synthetic data</div>
 
 ### Test Cases
 
-- Single Domain generalization (SDG) 
-  - E.g., train on paintings → test on cartoons or real-world photos!
-- Reducing Reliance on Spurious Features (RRSF)
-  - E.g., correct over-reliance on background, lighting, demographic features
+<div style="text-align: left">- Single Domain generalization (SDG) -- e.g., train on paintings → test on cartoons or real-world photos</div>
+<div style="text-align: left">- Reducing Reliance on Spurious Features (RRSF) -- e.g., correct over-reliance on background, lighting, demographics, etc.</div>
 
 
 ## Approach
@@ -57,14 +55,12 @@ Neural image classifiers are known to undergo severe performance degradation whe
   </tr>
 </table>
 
-Use T2I models to (1) edit, or (2) synthesize images
-- Causality: intervene on environmental features, preserve causal ones
-Which generative techniques yield best performance for SDG + RRSF?
-- Prompting Strategy
-  - Minimal Template · Handcrafted · LLM-Generated 
-- Conditioning Strategy
-  - SDEdit · ControlNet · InstructPix2Pix · Retrieval
-- Post-hoc Filtering
+<div style="text-align: left">Use T2I models to (1) edit, or (2) synthesize images</div>
+<div style="text-align: left">- Causality: intervene on environmental features, preserve causal ones</div>
+<div style="text-align: left">Which generative techniques yield best performance for SDG + RRSF?</div>
+<div style="text-align: left">- Prompting Strategy (Minimal Template · Handcrafted · LLM-Generated)</div>
+<div style="text-align: left">- Conditioning Strategy (SDEdit · ControlNet · InstructPix2Pix · Retrieval)</div>
+<div style="text-align: left">- Post-hoc Filtering (different filtering threshold)</div>
 
 ## Experiments
 
@@ -76,10 +72,8 @@ Which generative techniques yield best performance for SDG + RRSF?
   </tr>
 </table>
 
-- T2I-based IDA outperforms all traditional data augmentation methods on all SDG benchmarks for all prompting strategies
-- However, prompting strategy still matters:
-  - Minimal prompts (M; e.g., “A photo of [class name] in style of [style name]”) perform well
-  - Diverse, handcrafted prompts (H) perform even better
+<div style="text-align: left">T2I-based IDA outperforms all traditional data augmentation methods on all SDG benchmarks for all prompting strategies</div>
+<div style="text-align: left">- However, prompting strategy still matters: minimal templatic prompts (M) perform well; diverse, handcrafted prompts (H) perform even better</div>
 
 ### Reducing Reliance on Spurious Features (RRSF)
 
@@ -89,11 +83,10 @@ Which generative techniques yield best performance for SDG + RRSF?
   </tr>
 </table>
 
-- T2I data augmentation also outperforms all traditional data augmentation methods for RRSF (lower ↓ is better).
-  - Conditioning mechanism plays most significant role
-  - Text2Image (condition only on text, not images) is best for RRSF.
-- Measured over several kinds of bias/spurious correlations, including:
-  - Texture (CCS) · Background (ImageNet9) · Demographics (CelebA)
+<div style="text-align: left">T2I data augmentation also outperforms all traditional data augmentation methods for RRSF (lower ↓ is better).</div>
+<div style="text-align: left">- Conditioning mechanism plays most significant role</div>
+<div style="text-align: left">- Text2Image (condition only on text, not images) is best for RRSF.</div>
+<div style="text-align: left">- Measured over several kinds of bias/spurious correlations, including: Texture (CCS) · Background (ImageNet9) · Demographics (CelebA)</div>
 
 ### Conditioning Mechanism
 
@@ -103,10 +96,10 @@ Which generative techniques yield best performance for SDG + RRSF?
   </tr>
 </table>
 
-- Conditioning mechanism is most important factor
-  - Text2Image: generally most stable/competitive
-  - No universal “best option” – all others outperform it for at least one benchmark/domain
-- Upshot: conditioning should be carefully selected depending on target domain/application
+<div style="text-align: left">Conditioning mechanism is most important factor</div>
+<div style="text-align: left">- Text2Image: generally most stable/competitive</div>
+<div style="text-align: left">- No universal “best option” – all others outperform it for at least one benchmark/domain</div>
+<div style="text-align: left">Upshot: conditioning should be carefully selected depending on target domain/application</div>
 
 ### Post-hoc Filtering
 
@@ -116,9 +109,9 @@ Which generative techniques yield best performance for SDG + RRSF?
   </tr>
 </table>
 
-- Post-hoc filtering has trivial effect (in contrast to prior work)
-  - Upshot: current T2I (SD1.4) is good enough without filtering – at least for current SDG + RRSF benchmarks
-  - Instead, recommend focusing on (1) conditioning and (2) prompting
+<div style="text-align: left">Post-hoc filtering has trivial effect (in contrast to prior work)</div>
+<div style="text-align: left">- Upshot: current T2I (SD1.4) is good enough without filtering – at least for current SDG + RRSF benchmarks</div>
+<div style="text-align: left">- Instead, recommend focusing on (1) conditioning and (2) prompting</div>
 
 ## Citation
 
