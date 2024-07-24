@@ -37,9 +37,9 @@ links:
 Neural image classifiers are known to undergo severe performance degradation when exposed to inputs that exhibit covariate shifts with respect to the training distribution. A general interventional data augmentation (IDA) mechanism that simulates arbitrary interventions over spurious variables has often been conjectured as a theoretical solution to this problem and approximated to varying degrees of success. In this work, we study how well modern Text-to-Image (T2I) generators and associated image editing techniques can solve the problem of IDA. We experiment across a diverse collection of benchmarks in domain generalization, ablating across key dimensions of T2I generation, including interventional prompts, conditioning mechanisms, and post-hoc filtering, showing that it substantially outperforms previously state-of-the-art image augmentation techniques independently of how each dimension is configured. We discuss the comparative advantages of using T2I for image editing versus synthesis, also finding that a simple retrieval baseline presents a surprisingly effective alternative, which raises interesting questions about how generative models should be evaluated in the context of domain generalization.
 
 ## Motivation + Problem Setting
-Text-to-Image (T2I) generators enable flexible, simple, and powerful Interventional Data Augmentation (IDA)
+<div style="text-align: left">Text-to-Image (T2I) generators enable flexible, simple, and powerful Interventional Data Augmentation (IDA)
 - T2I-enabled image editing/synthesis simulates interventional data
-- Train downstream classifiers on real + synthetic data
+- Train downstream classifiers on real + synthetic data </div>
 
 ### Test Cases
 
