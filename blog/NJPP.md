@@ -26,10 +26,14 @@ affiliations:
     - name: 'Equal Contribution'
       id: '*'
 links:
+    - name: 'Paper'
+      link: 'https://proceedings.mlr.press/v235/yuan24e.html'
+    - name: 'Poster'
+      link: 'https://icml.cc/media/PosterPDFs/ICML%202024/33652.png?t=1720142495.262929'
+    - name: 'Video'
+      link: 'https://www.youtube.com/watch?v=19bBFg5wJ3Y'
     - name: 'Code'
       link: 'https://github.com/YuanJianhao508/NotJustPrettyPictures'
-    - name: 'PDF'
-      link: 'https://openreview.net/pdf?id=b89JtZj9gm'
 ---
 
 ## Abstract
