@@ -9,4 +9,5 @@ header:
 permalink: "/recruitment/"
 ---
 
-There is no vacancy at the moment.
+### Fourth Year Project/Master Thesis
+If you have a specific research direction in mind and aspire to publish in top conferences, please reach out to Professor Torr. philip.torr@eng.ox.ac.uk
