@@ -4,8 +4,8 @@ name: Francisco Girbal Eiras
 title: Mr.
 email: mailto:francisco.girbaleiras@eng.ox.ac.uk
 website: https://fgirbal.github.io
-note: NULL
+note: Examined by Prof. Yarin Gal and Prof.Eric Wong, University of Pennsylvania.
 category: Graduate Students
 photo: /images/people/FranciscoEiras.jpeg
-year: 2020
+year: 2025
 ---
