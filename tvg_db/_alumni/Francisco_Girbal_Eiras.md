@@ -1,7 +1,7 @@
 ---
 name: ---
 name: Francisco Girbal Eiras
-title: Mr.
+title: Dr.
 email: mailto:francisco.girbaleiras@eng.ox.ac.uk
 website: https://fgirbal.github.io
 note: Examined by Prof. Yarin Gal and Prof.Eric Wong, University of Pennsylvania.
