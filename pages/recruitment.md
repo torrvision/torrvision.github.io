@@ -10,7 +10,28 @@ permalink: "/recruitment/"
 ---
 
 
-### 1. Postdoctoral Research Assistant in Machine Learning
+### 1. One Year Fellowships in AI for Drugs Discovery or AI for Neural Decoding
+ 
+Fellowship in AI for Drugs Discovery :
+We are developing an AI system that acts like a team of scientists working together to accelerate drug discovery. Our technology uses multiple AI agents that read scientific papers, analyze medical data, and suggest new ideas for treatments - similar to how researchers brainstorm and critique each other's work. Through our partnership with Novo Nordisk in Oxford, we're testing this system on real drug development projects, aiming to dramatically reduce the time and cost of finding new medicines. By making drug discovery faster and more reliable, we can help bring life-saving treatments to patients sooner.
+ 
+With Prof. Philip Torr 
+ 
+Apply [here](https://encode.pillar.vc/projects/drug-discovery)
+ 
+### 2. Fellowship in AI for Neural Decoding:
+We're revolutionizing brain-computer interfaces by teaching AI to speak the brain's language across multiple senses (using magnetoencephalography (MEG) and large language models as a unified foundation model). Our breakthrough approach combines brain imaging with everyday sensory data – speech, vision, and thought patterns – to create an AI system that understands neural activity more deeply than ever before (achieving SOTA metrics on neural decoding tasks). Building on Oxford's cutting-edge research in feature universality and multi-modal neural architectures, we're developing a unified framework that bridges the gap between human thought and machine understanding. This technology promises to transform how people with communication difficulties interact with the world, while uncovering fundamental insights about how our brains represent and process information – potentially opening new frontiers in human-computer interaction through direct neural decoding.
+ 
+With Dr. Oiwi Parker Jones (PNPL 🍍) and Prof. Philip Torr 
+ 
+Apply [here](https://encode.pillar.vc/projects/neural-decoding)
+ 
+These projects are in collaboration https://www.pillar.vc/ and https://www.aria.org.uk/
+ 
+Closing: 30th April
+ 
+
+### 3. Postdoctoral Research Assistant in Machine Learning
 #### Department of Engineering Science, Central Oxford
 We are seeking a full-time Postdoctoral Research Assistant in Machine Learning to join Torr Vision Group at the Department of Engineering Science (central Oxford).  The post is funded by EPSRC and is fixed-term to the 30th September 2026.
  
@@ -37,5 +58,5 @@ Only online applications received before midday on the 24th March 2025 can be co
 The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
 For more details and application, please refer to [here](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=178451)
 
-### 2. Fourth Year Project/Master Thesis
+### 4. Fourth Year Project/Master Thesis
 If you are a student at Oxford, have a specific research direction in mind, and aspire to publish in top conferences, please reach out to Professor Torr. philip.torr@eng.ox.ac.uk
