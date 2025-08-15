@@ -23,9 +23,9 @@ Candidates should possess a PhD (or be near completion) in Machine Learning or a
  
 Informal enquiries may be addressed to adel.bibi@eng.ox.ac.uk
 
-Closing 23rd May 2025 
+Closing 05th September 2025 
 
-Apply [here](https://tinyurl.com/sypa5w9c)
+Apply [here](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=181146)
 
 
 
