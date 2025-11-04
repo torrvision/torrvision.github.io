@@ -81,11 +81,9 @@ homepage: true
     </li>
 
     <li>
-      <strong>Drug Discovery</strong>
+      <strong>AI for Science</strong>
       <p>
-        We have established a strategic partnership with Novo Nordisk to develop AI methods 
-        that assist in drug discovery. In this domain, topics such as explainability are 
-        also critically important.
+        We are interested in using AI to accelerate scientific discovery, from drug discovery to discovery of new materials to generic AI scientists and social scientists.
       </p>
     </li>
   </ol>
