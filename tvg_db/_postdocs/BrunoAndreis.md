@@ -1,7 +1,7 @@
 ---
 name: "Bruno Andreis"
 title: Dr.
-photo: "/images/people/JialinYu.png"
-email: "mailto:yu.jialin@outlook.com"
+photo: "/images/people/BrunoAndreis.png"
+email: "mailto:bruno.andreis@eng.ox.ac.uk"
 website: "https://torrvision.com/people/"
 ---
