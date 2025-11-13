@@ -3,5 +3,5 @@ name: "Bruno Andreis"
 title: Dr.
 photo: "/images/people/BrunoAndreis.png"
 email: "mailto:bruno.andreis@eng.ox.ac.uk"
-website: "https://torrvision.com/people/"
+website: "https://andreisbruno.github.io/"
 ---
