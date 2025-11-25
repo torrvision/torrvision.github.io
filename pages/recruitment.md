@@ -13,7 +13,7 @@ Last updated: 30th April 2025
 
 ### 1. Postdoctoral Research Assistant in Machine Learning
 
-We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, central Oxford.  The post is funded by Toyota Motor Europe and is fixed-term from the 1st  September 2025 - 28 Feb 2027.
+We are seeking a full-time Postdoctoral Research Assistant to join TVG at the Department of Engineering Science, central Oxford.  The post is funded by Toyota Motor Europe and is fixed-term from the 1st  September 2025 - 28 Feb 2027.
  
 There has been massive recent interest and efforts into systematic evaluation of the safety of LLM & VLM agents, but these works have focused exclusively on single-agent settings. We are seeking a highly motivated postdoc to conduct research into this fast-moving area. Directions may include investigating quality evaluation methods for multi-agent systems, attack surfaces, defensive mechanisms and related topics to the safe deployment of systems contain multiple LLM and VLM powered models.
  

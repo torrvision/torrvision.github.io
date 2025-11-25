@@ -3,7 +3,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "Torr Vision Group - University of Oxford"
+title: "TVG - University of Oxford"
 
 sidebar: right
 
