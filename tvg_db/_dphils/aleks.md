@@ -6,5 +6,5 @@ website: https://p-petrov.com/
 note: NULL
 category: Graduate Students
 photo: "/images/people/AleksPetrov.jpg"
-year: 2025
+year: 2022
 ---
