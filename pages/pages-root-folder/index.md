@@ -81,10 +81,30 @@ homepage: true
     </li>
 
     <li>
-      <strong>AI for Science</strong>
+      <strong>AI Scientist</strong>
       <p>
-        We are interested in using AI to accelerate scientific discovery, from drug discovery to discovery of new materials to generic AI scientists and social scientists.
+        We aim to close the loop of scientific discovery itself by building autonomous "AI Scientists" capable of accelerating progress across the natural, life, and social sciences. Rather than merely applying AI as a tool within existing scientific workflows, we are developing general-purpose AI systems that can formulate novel hypotheses, design and run experiments (in silico, wet-lab, or social-science settings), analyse results, and iteratively refine theories—essentially performing the full scientific method with minimal human supervision.
       </p>
+
+      <p>Current directions include:</p>
+
+      <ul>
+        <li>
+          <strong>Drug discovery & therapeutics</strong> – AI-driven drug discovery, binding-affinity prediction, de-novo molecule generation, and automated retrosynthesis planning, with certified safety constraints to avoid toxic or off-target compounds.
+        </li>
+
+        <li>
+          <strong>Materials discovery</strong> – Autonomous discovery of new catalysts, batteries, superconductors, and metamaterials by combining quantum-accurate simulations with active learning and experimental feedback loops.
+        </li>
+
+        <li>
+          <strong>Generic AI Scientist</strong> – Framework-agnostic systems that can be dropped into any scientific domain, learn its literature and experimental protocols, propose high-value experiments, and update beliefs in a Bayesian manner. Recent prototypes have already discovered novel algorithms and mathematical conjectures.
+        </li>
+
+        <li>
+          <strong>AI Social Scientist</strong> – Extending the same paradigm to economics, sociology, and political science: generating testable hypotheses about human and institutional behaviour, designing large-scale online experiments or analysing observational data at unprecedented scale, and surfacing policy-relevant insights while preserving privacy and ethical standards.
+        </li>
+      </ul>
     </li>
   </ol>
 
