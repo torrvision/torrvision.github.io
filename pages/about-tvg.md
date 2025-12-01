@@ -69,12 +69,5 @@ No one knows what it stands for, but here are some suggestions...
 - **Toad Veneration Guild** – amphibian-aligned intelligence.
 - **Totally Venomous Goose** – the new lab mascot.
 
----
 
-## 🌟 Torr's Law (Primary Formulation) 🌟
-
-> ### ⚡ *"Any idea you have will appear on arXiv within two days."* ⚡
-
-
----
 
