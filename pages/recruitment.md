@@ -20,11 +20,11 @@ You will conduct cutting-edge research at the intersection of RL and LLMs. You w
  
 You will hold a relevant PhD/DPhil or be near completion* together with relevant experience. You will have a strong technical background in machine learning, especially RL and LLMs. An ability to work independently and as part of a collaborative research team is essential.  
  
-Informal enquiries may be addressed to Dr. Yangchen Pan: yangchen.pan@eng.ox.ac.uk
+Informal enquiries may be addressed to Dr. Yangchen Pan: [email](mailto:yangchen.pan@eng.ox.ac.uk)
  
-For more information about working at the Department, see www.eng.ox.ac.uk/about/work-with-us/
+For more information about working at the Department, see [working at the Department](www.eng.ox.ac.uk/about/work-with-us/).
  
-Only online applications received before midday on 5th January, 2026 can be considered. You will be required to upload supporting statements, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position, two pages recommended), CV and the details of two referees as part of your online application.
+Only online applications received before midday on **5th January, 2026** can be considered. You will be required to upload supporting statements, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position, two pages recommended), CV and the details of two referees as part of your online application.
  
 The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
 
