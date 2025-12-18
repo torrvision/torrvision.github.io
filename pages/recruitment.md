@@ -11,7 +11,40 @@ permalink: "/recruitment/"
 
 Last updated: 17th December 2025
 
-### 1. Postdoctoral Research Assistant in Machine Learning
+
+
+
+
+### 1. Postdoctoral Research Assistant in AI Scientists
+
+We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, central Oxford. The post is funded by EPSRC and is fixed-term to the 30th September 2026.
+ 
+We are looking for outstanding machine learning researcher to join the Torr Vision Group and work on AI Scientists: systems that use foundation models, AI agents, and robotics to automate scientific discovery in both the natural and social sciences.
+ 
+The postholder will contribute to one or more of the following strands:
+ 
+•    Foundational work on large-scale/foundation models and agentic architectures for autonomous scientific reasoning and planning;
+ 
+•    AI social scientists, including language-model-based and agent-based simulations for social science domains such as history, economics, and other areas of computational social science;
+ 
+•    AI scientists for natural science, integrating LLM agents with simulation and, where appropriate, robotic experimentation (e.g., automated "dry" and "wet" lab workflows).
+ 
+You will be able to Design, develop and implement algorithms and systems based on foundation models, large language models and/or AI agents for automated scientific discovery, in natural science and/or social science domains.
+ 
+Candidates should possess a PhD (or be near completion) in PhD in Computer Science, AI, Security, or a related field. You will have a Strong background in machine learning and/or computer security and Experience working with LLMs or agent-based systems. 
+ 
+Informal enquiries may be addressed to [Professor Philip Torr](mailto:philip.torr@eng.ox.ac.uk).
+ 
+For more information about working at the Department, see [working at the Department](https://eng.ox.ac.uk/about/work-with-us/).
+ 
+Only online applications received before midday on **7th January 2026** can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
+ 
+The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
+
+
+
+
+### 2 Postdoctoral Research Assistant in Machine Learning
 
 We are seeking a full-time postdoctoral researcher to join Torr Vision Group at the Department of Engineering Science (central Oxford). The post is funded by EPSRC and is fixed-term for one year with the possibility of renewal.
  
@@ -32,7 +65,10 @@ Apply [here](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
 
 
 
-### 2. Fourth Year Project/Master Thesis
+
+
+
+### 3. Fourth Year Project/Master Thesis
 If you are a student at Oxford, have a specific research direction in mind, and aspire to publish in top conferences, please reach out to Professor Torr. philip.torr@eng.ox.ac.uk
 
 
