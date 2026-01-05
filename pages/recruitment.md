@@ -45,7 +45,7 @@ The Department holds an Athena Swan Bronze award, highlighting its commitment to
 
 
 ### 2 Postdoctoral Research Assistant in Machine Learning
-
+ 
 We are seeking a full-time postdoctoral researcher to join Torr Vision Group at the Department of Engineering Science (central Oxford). The post is funded by EPSRC and is fixed-term for one year with the possibility of renewal.
  
 This project addresses the high computational and energy costs of Large Language Models (LLMs) by developing more efficient training and inference methods, particularly in continual learning settings. The core focus is on leveraging Reinforcement Learning (RL) to make the training and deployment of LLMs more computationally and sample efficient. This approach aims to improve the accessibility, scalability, and sustainability of LLMs. The research will span foundational advances in RL/LLM integration to applied work with potential real-world impact.
