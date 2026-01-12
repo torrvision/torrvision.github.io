@@ -1,7 +1,7 @@
 ---
 name: Runjia Li
 title: Mr.
-email: runjia@robots.ox.ac.uk
+email: mailto:runjiali@outlook.com
 website: https://runjiali-rl.github.io/
 note: NULL
 category: Graduate Students
