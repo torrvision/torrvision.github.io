@@ -9,13 +9,13 @@ header:
 permalink: "/recruitment/"
 ---
 
-Last updated: 17th December 2025
+Last updated: 14th January 2026
 
 
 
 
 
-
+<!-- 
 
 ### 1. Postdoctoral Research Assistant in AI Scientists
 
@@ -65,12 +65,12 @@ The Department holds an Athena Swan Bronze award, highlighting its commitment to
 
 Apply [here](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
 
+ -->
 
 
 
 
-
-### 3. Postdoctoral Research Assistant in Machine Learning
+### 1. Postdoctoral Research Assistant in Machine Learning
  
 We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, in central Oxford. This post is supported by Professor Philip Torr's Schmidt Science AI2050 fellowship and is for two years in the first instance.
  
@@ -95,7 +95,7 @@ Only online applications received before midday on **9th February 2026** can be 
 The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
 
 
-### 4. Fourth Year Project/Master Thesis
+### 2. Fourth Year Project/Master Thesis
 If you are a student at Oxford, have a specific research direction in mind, and aspire to publish in top conferences, please reach out to Professor Torr. philip.torr@eng.ox.ac.uk
 
 
