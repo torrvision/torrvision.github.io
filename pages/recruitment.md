@@ -15,6 +15,8 @@ Last updated: 17th December 2025
 
 
 
+
+
 ### 1. Postdoctoral Research Assistant in AI Scientists
 
 We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, central Oxford. The post is funded by EPSRC and is fixed-term to the 30th September 2026.
@@ -68,7 +70,32 @@ Apply [here](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
 
 
 
-### 3. Fourth Year Project/Master Thesis
+### 3. Postdoctoral Research Assistant in Machine Learning
+ 
+We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, in central Oxford. This post is supported by Professor Philip Torr's Schmidt Science AI2050 fellowship and is for two years in the first instance.
+ 
+What is the core problem the proposed work seeks to solve? "It is 2050. Artificial intelligence can now explain its reasoning, simulate complex societies, and help humanity learn from ten thousand years of recorded history. Historians and anthropologists work with AI collaborators that reconstruct lost evidence, test competing explanations, and reveal new insights into how cultures evolve and societies endure. This project lays the foundation for that future."
+ 
+The postholder will contribute to one or more of the following strands:
+ 
+•    Foundational research on large-scale / foundation models and agentic architectures for autonomous social-science reasoning and planning.
+ 
+•    AI Social Scientist / AI Historian research: causal reasoning methods for reasoning over heterogeneous historical and social data (texts, maps, images, archaeological records), combining causal discovery, multimodal modelling, and agent-based simulation to produce open, reproducible tools and datasets.
+ 
+•    Infrastructure and benchmarking for large-scale social-science simulation and validated workflows.
+ 
+Candidates should possess a PhD (or be near completion) in PhD in Computer Science, AI, Security, or a related field. Demonstrable expertise in foundation models / large language models, multimodal modelling, or agentic / multi-agent systems is essential. Experience or strong knowledge of causal discovery methods and/or agent-based modelling for social-science questions together with excellent communication skills are required.
+ 
+Informal enquiries may be addressed to [Professor Philip Torr](mailto:philip.torr@eng.ox.ac.uk).
+ 
+For more information about working at the Department, see [working at the Department](https://eng.ox.ac.uk/about/work-with-us/).
+ 
+Only online applications received before midday on **9th February 2026** can be considered. You will be required to upload a covering letter/supporting statement, including a brief statement of research interests (describing how past experience and future plans fit with the advertised position), CV and the details of two referees as part of your online application.
+ 
+The Department holds an Athena Swan Bronze award, highlighting its commitment to promoting women in Science, Engineering and Technology.
+
+
+### 4. Fourth Year Project/Master Thesis
 If you are a student at Oxford, have a specific research direction in mind, and aspire to publish in top conferences, please reach out to Professor Torr. philip.torr@eng.ox.ac.uk
 
 
