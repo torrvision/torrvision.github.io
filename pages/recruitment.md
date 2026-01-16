@@ -70,7 +70,7 @@ Apply [here](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
 
 
 
-### 1. Postdoctoral Research Assistant in Machine Learning
+### 1. Postdoctoral Research Assistant in Machine Learning [Apply here](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=184269)
  
 We are seeking a full-time Postdoctoral Research Assistant to join Torr Vision Group at the Department of Engineering Science, in central Oxford. This post is supported by Professor Philip Torr's Schmidt Science AI2050 fellowship and is for two years in the first instance.
  
