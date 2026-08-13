@@ -4,5 +4,6 @@ title: Dr.
 photo: "/images/people/AlasdairParen.jpeg"
 email: "mailto:alasdair.paren@eng.ox.ac.uk"
 website: "https://alasdair-p.github.io/Alasdair-P/"
+note: PostDoc at Chalmers University of Technology, former PostDoc
+category: Former Members
 ---
-
