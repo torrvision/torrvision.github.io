@@ -1,11 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Prizes"
-subheadline: ""
-teaser: 
+title: "Prizes & Awards"
+subheadline: "Best-paper awards, prizes and honours won by members of the group."
+teaser:
+body_class: "tvg-awards"
 header:
-   image_fullwidth: 
+   image_fullwidth:
 permalink: "/prizes/"
 ---
 

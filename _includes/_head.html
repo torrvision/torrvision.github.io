@@ -22,30 +22,21 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
 
-    <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
+	<meta name="theme-color" content="#002147">
+	<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, "js");</script>
 
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
+
+	<link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/tvg.css">
 
   {% if site.asciidoctor-enabled == true %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="{{ url }}/assets/css/styles_feeling_responsive.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
   {% endif %}
 
-	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
-	<script src="{{ url }}/assets/js/jquery.min.js"></script>
-	<script src="{{ url }}/assets/js/skel.min.js"></script>
-	<script src="{{ url }}/assets/js/main_banner.js"></script>
-	<script src="{{ url }}/assets/js/util.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-	<script>
-		WebFont.load({
-			google: {
-				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
-			}
-		});
-	</script>
-
-	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
-	</noscript>
+	<script defer src="{{ url }}/assets/js/tvg.js"></script>
 
 
 	<!-- Search Engine Optimization -->
@@ -93,5 +84,3 @@
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
-
-	<link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/my_style.css">

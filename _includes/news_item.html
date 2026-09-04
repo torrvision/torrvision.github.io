@@ -1,17 +1,10 @@
-<li>
-          <div class="news-summary">
-            <div class="news-date">
-              <span class="new-day-month rounded">
-                {{ include.news_date }}
-              </span>
-              <span class="new-year rounded">
-                {{ include.year }}
-              </span>
-            </div>
-            <h3 class="news-title">{{ include.title }}</h3>
-          </div>
-            
-
-          {{ include.news_content }}
-          
+<li class="tvg-news__item tvg-reveal">
+  <div class="tvg-news__date">
+    <span class="tvg-news__day">{{ include.news_date }}</span>
+    <span class="tvg-news__year">{{ include.year }}</span>
+  </div>
+  <div>
+    <h3 class="tvg-news__title">{{ include.title }}</h3>
+    <div class="tvg-news__body">{{ include.news_content }}</div>
+  </div>
 </li>

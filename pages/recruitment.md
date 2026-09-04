@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Recruitment"
-subheadline: "Lab Recruiment"
-teaser: 
+title: "Join the group"
+subheadline: "Open positions, studentships and internships in the Torr Vision Group."
+teaser:
 header:
-   image_fullwidth: 
+   image_fullwidth:
 permalink: "/recruitment/"
 ---
 

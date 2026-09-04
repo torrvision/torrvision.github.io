@@ -1,27 +1,53 @@
-    <div id="up-to-top" class="row">
-      <div class="small-12 columns" style="text-align: right;">
-        <a class="iconfont" href="#top-of-page">&#xf108;</a>
-      </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+<a class="tvg-totop" href="#top-of-page" aria-label="Back to top">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+       stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M12 19V5M5 12l7-7 7 7"/>
+  </svg>
+</a>
 
+<footer class="tvg-footer" id="footer-content">
+  <div class="tvg-container">
 
-    <footer id="footer-content" class="bg-grau">
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-12 columns credits">
-            {{ site.credits }}
-          </section>
-<!--
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
+    <div class="tvg-footer__grid">
+      <div>
+        <p class="tvg-footer__mark">TVG</p>
+        <p class="tvg-footer__tag">{{ site.footer_tagline | default: "Torr Vision Group — AI Safety and AI for Science." }}</p>
+        <address class="tvg-footer__addr">
+          Department of Engineering Science<br>
+          University of Oxford<br>
+          Parks Road, Oxford OX1 3PJ, United Kingdom
+        </address>
+      </div>
 
-            </ul>
-          </section>
- -->
-        </nav>
-      </div><!-- /#subfooter -->
-    </footer>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          {% for link in site.data.navigation %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = site.url | append: site.baseurl %}
+            {% endif %}
+            <li><a href="{{ domain }}{{ link.url }}">{{ link.title | escape }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div>
+        <h3>Elsewhere</h3>
+        <ul>
+          <li><a href="https://eng.ox.ac.uk/" target="_blank" rel="noopener">Dept. of Engineering Science</a></li>
+          <li><a href="https://www.ox.ac.uk/" target="_blank" rel="noopener">University of Oxford</a></li>
+          <li><a href="https://www.robots.ox.ac.uk/~phst/" target="_blank" rel="noopener">Philip Torr</a></li>
+          <li><a href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tvg-footer__bar">
+      <p>&copy; {{ site.time | date: "%Y" }} Torr Vision Group, University of Oxford.</p>
+      <div class="credits">{{ site.credits }}</div>
+    </div>
+
+  </div>
+</footer>

@@ -1,36 +1,40 @@
-<section class="banner full">
-	<article id="banner_image_1">
-		<div class="inner">
-			<div class="banner_top"></div>
-			<header>
-				<img src="/images/tvg-logo.svg" alt="TVG" class="my_logo">
-				<h2 style="text-shadow: 3px 3px #333333">TVG</h2>
-				<h4 style="text-shadow: 2px 2px #333333">Department of Engineering Science, University of Oxford</h4>
-			</header>
-		</div>
-	</article>
+<section class="tvg-hero">
 
-	<article id="banner_image_2">
-		<div class="inner">
-			<div class="banner_top"></div>
-			<header>
-				<img src="/images/tvg-logo.svg" alt="TVG" class="my_logo">
-				<h2 style="text-shadow: 3px 3px #333333;">TVG</h2>
-				<h4 style="text-shadow: 2px 2px #333333">Departme	nt of Engineering Science, University of Oxford</h4>
-			</header>
-		</div>
-	</article>
+  <div class="tvg-hero__slides" aria-hidden="true">
+    <div class="tvg-hero__slide is-visible" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/banners/banner1_huge.jpg');"></div>
+    <div class="tvg-hero__slide" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/banners/banner2_huge.jpg');"></div>
+    <div class="tvg-hero__slide" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/banners/banner3_huge.jpg');"></div>
+  </div>
 
-	<article id="banner_image_3">
-		<div class="inner">
-			<div class="banner_top"></div>
-			<header>
-				<img src="/images/tvg-logo.svg" alt="TVG" class="my_logo">
-				<h2 style="text-shadow: 3px 3px #333333">TVG</h2>
-				<h4 style="text-shadow: 2px 2px #333333">Department of Engineering Science, University of Oxford</h4>
-			</header>
-		</div>
-	</article>
+  <div class="tvg-container tvg-hero__inner">
+    <div class="tvg-hero__content">
+      <span class="tvg-hero__eyebrow">Department of Engineering Science &middot; University of Oxford</span>
 
-	<ul class="indicators"><li class=""></li><li class=""></li><li class=""></li></ul>
+      <h1>Torr Vision Group</h1>
+
+      <p class="tvg-hero__slogan">
+        TVG is working on <em>AI Safety</em> and <em>AI for Science</em>.
+      </p>
+
+      <p class="tvg-hero__lede">
+        Led by Professor Philip H.S. Torr, FREng, FRS. We do state-of-the-art research
+        in machine learning and computer vision, and keep it relevant to the needs of society.
+      </p>
+
+      <div class="tvg-hero__actions">
+        <a class="tvg-btn tvg-btn--light" href="#research">
+          Our research
+          <span class="tvg-btn__arrow" aria-hidden="true">&rarr;</span>
+        </a>
+        <a class="tvg-btn tvg-btn--ghost" href="{{ site.url }}{{ site.baseurl }}/publication/">Publications</a>
+      </div>
+    </div>
+  </div>
+
+  <ul class="tvg-hero__dots">
+    <li><button type="button" aria-current="true" aria-label="Show image 1"></button></li>
+    <li><button type="button" aria-current="false" aria-label="Show image 2"></button></li>
+    <li><button type="button" aria-current="false" aria-label="Show image 3"></button></li>
+  </ul>
+
 </section>

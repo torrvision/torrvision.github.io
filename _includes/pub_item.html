@@ -1,42 +1,29 @@
-<div class="row">
-	<div class="small-4 column">
-		{% if include.img_path %}
-			<a href="{{ include.pdf_url }}">
-				<img src="../images/images_for_pub/{{ include.img_path }}" style="width: 100%">
-			</a>
-		{% else %}
-			<a href="{{ include.pdf_url }}">
-				<img src="../images/images_for_pub/default.jpg" style="width: 100%">
-			</a>
-		{% endif %}
-	</div>
-	<div class="small-8 column">
-		<p>
-			<b>{{ include.title }}</b>
-			<br>
-			{{ include.author_list }}
-			<br> 
-			{{ include.pub_in }}
-			<br>
-			<a href="{{ include.pdf_url }}"> [PDF]</a>
-			{% if include.website %}
-			<a href="{{ include.website }}"> [Website]</a>
-			{% endif %}
-			{% if include.bib %}
-			<a href="{{ include.bib }}"> [Bibtex]</a>
-			{% endif %}
-			{% if include.code_url %}
-			<a href="{{ include.code_url }}"> [Code]</a>
-			{% endif %}
-			{% if include.blog_post %}
-			<a href="{{ include.blog_post }}"> [Blog Post]</a>
-			{% endif %}
-			{% if include.grant == 'MURI' %}
-			| {{ include.grant }}
-			{% endif %}
-		</p>
-	</div>
-		
-</div>
+<article class="tvg-pub{% if include.img_path %} tvg-pub--media{% endif %}" data-pub>
+  {% if include.img_path %}
+  <a class="tvg-pub__thumb" href="{{ include.pdf_url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/images_for_pub/{{ include.img_path }}"
+         alt="" loading="lazy" width="336" height="210">
+  </a>
+  {% endif %}
 
-<br>
+  <div class="tvg-pub__meta">
+    <h3 class="tvg-pub__title">
+      {% if include.pdf_url %}<a href="{{ include.pdf_url }}">{{ include.title }}</a>{% else %}{{ include.title }}{% endif %}
+    </h3>
+    {% if include.author_list %}<p class="tvg-pub__authors">{{ include.author_list }}</p>{% endif %}
+    {% if include.pub_in %}<p class="tvg-pub__venue">{{ include.pub_in }}</p>{% endif %}
+
+    {% assign has_links = false %}
+    {% if include.pdf_url or include.website or include.code_url or include.bib or include.blog_post %}{% assign has_links = true %}{% endif %}
+    {% if has_links or include.grant == 'MURI' %}
+    <div class="tvg-pub__links">
+      {% if include.pdf_url %}<a class="tvg-pill" href="{{ include.pdf_url }}">PDF</a>{% endif %}
+      {% if include.website %}<a class="tvg-pill" href="{{ include.website }}">Website</a>{% endif %}
+      {% if include.code_url %}<a class="tvg-pill" href="{{ include.code_url }}">Code</a>{% endif %}
+      {% if include.bib %}<a class="tvg-pill" href="{{ include.bib }}">BibTeX</a>{% endif %}
+      {% if include.blog_post %}<a class="tvg-pill" href="{{ include.blog_post }}">Blog post</a>{% endif %}
+      {% if include.grant == 'MURI' %}<span class="tvg-pill tvg-pill--accent">{{ include.grant }}</span>{% endif %}
+    </div>
+    {% endif %}
+  </div>
+</article>

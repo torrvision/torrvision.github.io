@@ -66,6 +66,8 @@
 - title: Recruitment
   url: "/recruitment/"
   side: left
+  cta: true
+  cta_title: "Join us"
 
 # - title: Teams
 #   url: "/"

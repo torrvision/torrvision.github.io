@@ -2,179 +2,36 @@
 layout: default
 format: frontpage
 ---
-<div class="main-container">
-    <div id="header-home">
-        <!-- <div class="row"> -->
-          {% include _index_banner.html %}
-            <div class="">
+{% if page.homepage == true %}
+{% include _index_banner.html %}
 
-             <div class="" style="/* margin-top: 15px */">
-                <div class="dark-section" style="">
-                   <div class="head">
-                    <div class="col-sm-12 col-md-6 pl-6 head-text"> <h1 style="color: #2C2C2C; font-weight: bold;" id="main-title"> <a href="{{ site.url }}{{ site.baseurl }}/about-tvg/" style="color: #2C2C2C; text-decoration: none;">TVG</a> </h1>
-                        <!-- <h5 class="" style="color: #6C6C6C;" id="sub-title"> Torr Vision Group (formerly known as Brookes Vision Group, Oxford Brookes University) in the Department of Engineering Science at University of Oxford, was formed in 2005 and later moved to University of Oxford in 2013, is led by Professor Philip Torr, FREng, FRS, who was made Turing AI world leading researcher fellow in 2021. The aim of the group is to engage in state of the art research into the mathematical theory of computer vision and artificial intelligence, but to keep the mathematical research relevant to the needs of society. </h5> -->
-                        <h5 class="" style="color: #6C6C6C;" id="sub-title"> <a href="{{ site.url }}{{ site.baseurl }}/about-tvg/" style="color: #6C6C6C; text-decoration: underline;">TVG</a> (formerly known as Brookes Vision Group at Oxford Brookes University), now in the Department of Engineering Science at the University of Oxford, was formed in 2005 and moved to the University of Oxford in 2013. It is led by Professor Philip Torr, FREng, FRS, who was made a Turing AI World-Leading Researcher Fellow in 2021. The group has won major awards at most of the top machine learning and computer vision conferences and has contributed to technology transfer into real-world applications, from autonomous cars to cybersecurity. We strongly believe that research should be inspired by applications that can make a positive difference in people's lives.</h5>
-                        <h5 class="" style="color: #6C6C6C;">For up to date news or jobs, please check out:
-                            <a href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" style="color: #6C6C6C; text-decoration: underline;">Linkedin page of Prof. Philip Torr</a></h5>
-                        <div style="margin-top: 15px; padding: 10px; background-color: #f8f9fa; border-left: 4px solid #FFD700; border-radius: 4px;">
-                            <h6 style="color: #2C2C2C; font-weight: bold; margin-bottom: 5px;">🌟 Torr's Law 🌟</h6>
-                            <p style="margin: 0; padding: 5px 0; color: #6C6C6C; font-style: italic; font-size: 14px;">
-                                <strong>"Any idea you have will appear on arXiv within two days."</strong>
-                            </p>
-                            <p style="margin: 0; padding: 5px 0; color: #6C6C6C; font-style: italic; font-size: 11px;">
-                                <em>Formal Statement:</em> In a rapidly expanding research domain, the probability that a novel idea independently appears on arXiv approaches 1 as time from conception increases, with a characteristic lag of approximately 48 hours.
-                            </p>
-                            <p style="margin: 0; padding: 5px 0; color: #6C6C6C; font-style: italic; font-size: 11px;">
-                                <strong>Weak Torr's Law:</strong> "If you don't write it down today, someone will publish it tomorrow."
-                            </p>
-                            <p style="margin: 0; padding: 5px 0; color: #6C6C6C; font-style: italic; font-size: 11px;">
-                                <strong>Research Culture Commentary:</strong> "In frontier AI research, intellectual latency is about 48 hours — Torr's Law."
-                            </p>
-                        </div>
-                    </div>
+{% assign pub_count = site.publications | size %}
+{% assign alumni_count = site.alumni | size %}
+{% assign former_count = site.former_members | size %}
+{% assign past_count = alumni_count | plus: former_count %}
 
-                    <div class="col-sm-12 col-md-6 carousel-head-inner" >
-
-                        <div id="group_photo_carousel" class="carousel slide" data-ride="carousel" style="">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators">
-                              <li data-target="#group_photo_carousel" data-slide-to="0" class="active"></li>
-                              <li data-target="#group_photo_carousel" data-slide-to="1"></li>
-                              <li data-target="#group_photo_carousel" data-slide-to="2"></li>
-                              <li data-target="#group_photo_carousel" data-slide-to="3"></li>
-                            </ol>
-
-                          <!-- Wrapper for slides -->
-                          <div class="carousel-inner">
-
-                              {% include carousel_item.html active="true" 
-                                  url="#" 
-                                  image="/images/group_photos/tvg20.jpg" %}
-                              
-                              {% include carousel_item.html  
-                                  url="#" 
-                                  image="/images/group_photos/group_photo_1123_2021.jpg" %}
-
-                              {% include carousel_item.html 
-                                  url="#" 
-                                  image="/images/group_photos/oct_2018.jpg" %}
-                              
-                              {% include carousel_item.html 
-                                  url="#" 
-                                  image="/images/group_photos/june_2016.jpg" %}
-
-                          </div>
-
-                                 <!-- Left and right controls -->
-                                 <a class="left carousel-control" href="#group_photo_carousel" data-slide="prev">
-                                  <span class="glyphicon glyphicon-chevron-left"></span>
-                                  <span class="sr-only">Previous</span>
-                              </a>
-                              <a class="right carousel-control" href="#group_photo_carousel" data-slide="next">
-                                  <span class="glyphicon glyphicon-chevron-right"></span>
-                                  <span class="sr-only">Next</span>
-                              </a>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div><!-- /.medium-4.columns -->
-      <!-- </div>/.row -->
-  </div><!-- /#header-home -->
-
-
-  <div class="">
-    {{ content }}
-</div>
-
-
-
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-
-
-
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-<div class="row t60 b60">
-    <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-    </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+<section class="tvg-stats">
+  <div class="tvg-container">
+    <div class="tvg-stats__grid">
+      <div class="tvg-stat">
+        <span class="tvg-stat__value">2005</span>
+        <span class="tvg-stat__label">Group founded</span>
+      </div>
+      <div class="tvg-stat">
+        <span class="tvg-stat__value">{{ pub_count }}</span>
+        <span class="tvg-stat__label">Publications</span>
+      </div>
+      <div class="tvg-stat">
+        <span class="tvg-stat__value">{{ past_count }}+</span>
+        <span class="tvg-stat__label">Alumni &amp; former members</span>
+      </div>
+      <div class="tvg-stat">
+        <span class="tvg-stat__value">FRS</span>
+        <span class="tvg-stat__label">Royal Society Fellow</span>
+      </div>
+    </div>
+  </div>
+</section>
 {% endif %}
 
-
-
-{% comment %}
-*
-* First check, if there are any posts at all
-*
-{% endcomment %}
-
-{% unless site.posts == empty %}
-<div class="row t30 b20 homepage">
-    <div class="small-12 columns">
-        {% for post in site.posts limit:1 %}
-        {% if post.image.homepage %}
-        <p>
-            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
-        </p>
-
-        {% if post.image.caption_url and post.image.caption %}
-        <p class="text-right caption">
-            <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-        </p>
-        {% endif %}
-        {% else post.image.homepage == NULL %}
-        <h2>{{ site.data.language.new_blog_entries }}</h2>
-        {% endif %}
-        {% endfor %}
-    </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
-
-
-<div class="row">
-    <div class="medium-6 columns">
-        {% for post in site.posts limit:1 %}
-        {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-        <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-        <p>
-            {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-        </p>
-        {% endfor %}
-    </div><!-- /.medium-5.columns -->
-
-
-    <div class="medium-6 columns">
-        <p><strong>{{ site.data.language.more_articles }}</strong></p>
-        {% include list-posts entries='3' offset='1' %}
-    </div><!-- /.medium-7.columns -->
-</div><!-- /.row -->
-{% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-
-
-</div>
+{{ content }}
