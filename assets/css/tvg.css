@@ -837,6 +837,22 @@ tbody tr:hover { background: var(--tvg-bg-2); }
   margin: 0 0 2.25rem;
 }
 
+.tvg-hero__follow {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, .9);
+  max-width: 33rem;
+  margin: -1rem 0 2.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--tvg-gold-400);
+}
+.tvg-hero__follow a {
+  color: var(--tvg-gold-400);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.tvg-hero__follow a:hover { color: #fff; }
+
 .tvg-hero__actions { display: flex; flex-wrap: wrap; gap: .75rem; }
 
 .tvg-hero__dots {
