@@ -172,7 +172,8 @@ homepage: true
         </p>
         <p>
           For up-to-date news or jobs, see the
-          <a href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" target="_blank" rel="noopener">LinkedIn page of Prof. Philip Torr</a>.
+          <a href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" target="_blank" rel="noopener">LinkedIn</a>
+          and <a href="https://x.com/philiptorr" target="_blank" rel="noopener">X</a> pages of Prof. Philip Torr.
         </p>
 
         <div class="tvg-callout">
