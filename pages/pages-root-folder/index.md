@@ -199,7 +199,8 @@ homepage: true
       <div class="tvg-split__media tvg-reveal">
         <div class="tvg-carousel" data-carousel aria-roledescription="carousel" aria-label="Group photos">
           <div class="tvg-carousel__viewport">
-            {% include carousel_item.html active="true" image="/images/group_photos/tvg20.jpg" alt="TVG group photo, 2024" %}
+            {% include carousel_item.html active="true" image="/images/group_photos/group_photo_2026.jpg" alt="TVG group photo, 2026" %}
+            {% include carousel_item.html image="/images/group_photos/tvg20.jpg" alt="TVG group photo, 2024" %}
             {% include carousel_item.html image="/images/group_photos/group_photo_1123_2021.jpg" alt="TVG group photo, 2021" %}
             {% include carousel_item.html image="/images/group_photos/oct_2018.jpg" alt="TVG group photo, 2018" %}
             {% include carousel_item.html image="/images/group_photos/june_2016.jpg" alt="TVG group photo, 2016" %}
@@ -215,7 +216,7 @@ homepage: true
           <div class="tvg-carousel__dots" data-carousel-dots role="tablist"></div>
         </div>
 
-        <p class="tvg-figcaption">The group, 2016&ndash;2024.</p>
+        <p class="tvg-figcaption">The group, 2016&ndash;2026.</p>
       </div>
     </div>
 
