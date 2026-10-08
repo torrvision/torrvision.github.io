@@ -851,6 +851,11 @@ tbody tr:hover { background: var(--tvg-bg-2); }
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.tvg-hero__follow a svg {
+  display: inline-block;
+  vertical-align: -.1em;
+  margin-right: .3em;
+}
 .tvg-hero__follow a:hover { color: #fff; }
 
 .tvg-hero__actions { display: flex; flex-wrap: wrap; gap: .75rem; }
