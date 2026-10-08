@@ -130,10 +130,20 @@ homepage: true
         <span class="tvg-eyebrow">Latest</span>
         <h2>Recent news</h2>
       </div>
-      <a class="tvg-btn tvg-btn--outline" href="{{ site.url }}{{ site.baseurl }}/news/">
-        All news
-        <span class="tvg-btn__arrow" aria-hidden="true">&rarr;</span>
-      </a>
+      <div class="tvg-hero__actions">
+        <a class="tvg-btn tvg-btn--outline" href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" target="_blank" rel="noopener" aria-label="Prof. Philip Torr on LinkedIn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg>
+          LinkedIn
+        </a>
+        <a class="tvg-btn tvg-btn--outline" href="https://x.com/philiptorr" target="_blank" rel="noopener" aria-label="Prof. Philip Torr on X">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.15h3.68l-8.04 9.19L24 22.85h-7.4l-5.8-7.58-6.63 7.58H.48l8.6-9.83L0 1.15h7.59l5.24 6.93 6.07-6.93zm-1.29 19.5h2.04L6.48 3.24H4.3l13.31 17.41z"/></svg>
+          X
+        </a>
+        <a class="tvg-btn tvg-btn--outline" href="{{ site.url }}{{ site.baseurl }}/news/">
+          All news
+          <span class="tvg-btn__arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </div>
     </div>
 
     <ul class="tvg-news">
@@ -169,11 +179,6 @@ homepage: true
           conferences, and has contributed to technology transfer into real-world applications,
           from autonomous cars to cybersecurity. We strongly believe that research should be
           inspired by applications that can make a positive difference in people's lives.
-        </p>
-        <p>
-          For up-to-date news or jobs, see the
-          <a href="https://www.linkedin.com/in/philip-torr-freng-frs-1085702/" target="_blank" rel="noopener">LinkedIn</a>
-          and <a href="https://x.com/philiptorr" target="_blank" rel="noopener">X</a> pages of Prof. Philip Torr.
         </p>
 
         <div class="tvg-callout">
