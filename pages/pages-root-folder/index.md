@@ -139,6 +139,10 @@ homepage: true
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.15h3.68l-8.04 9.19L24 22.85h-7.4l-5.8-7.58-6.63 7.58H.48l8.6-9.83L0 1.15h7.59l5.24 6.93 6.07-6.93zm-1.29 19.5h2.04L6.48 3.24H4.3l13.31 17.41z"/></svg>
           X
         </a>
+        <a class="tvg-btn tvg-btn--outline" href="https://philiptorr.substack.com/" target="_blank" rel="noopener" aria-label="Prof. Philip Torr on Substack">
+          <svg width="14" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+          Substack
+        </a>
         <a class="tvg-btn tvg-btn--outline" href="{{ site.url }}{{ site.baseurl }}/news/">
           All news
           <span class="tvg-btn__arrow" aria-hidden="true">&rarr;</span>
